@@ -1,0 +1,261 @@
+chapter 5
+opera tions and maintenance
+  3  cabling  check for cable   replace cable if
+      conditions i.e. wear   necessary
+   and tear
+ 
+      check cable terminals   tighten connections
+      for burnt marks, hot   or recommend
+   spots or loose  replacement
+   connections
+   4  junction boxes  check cable terminals   tighten or
+      e.g. wear and tear   recommend
+   or loose connections replacement
+      check for warning   replace warning
+   notices notice if necessary
+      check for physical   recommend
+   damage replacement
+  5  means of isolation  check functionality  recommend   
+  replacement
+  6  earthing of solar pv system  check earthing cable   recommend   conditions replacement
+      check the physical   retighten
+   earthing connection connection
+      check continuity of the  troubleshoot or 
+   cable to electrical earth recommend   
+   replacement
+  7  bonding of the exposed   check bonding cable  recommend  metallic structure of solar  conditions replacement
+  pv system to lightning earth  
+      check physical bonding   tighten connection
+   connection 
+        check continuity of   troubleshoot or
+   the bonding to lightning  recommend  
+  earth replacement
+31
+aappendices
+3132
+aappendix 
+a.1  zero energy building @ bca aca demy 
+building name  :  zero energy building @ bca academy
+owner  :  building and construction authority (bca)
+location  :  200 braddell road, singapore 579700
+building type  :  academic institution
+completion  :  2009
+working groups   
+*  project architects  :  dp architects pte ltd
+*  principal investigators  :  national university of singapore / seris
+*  structural engineers  :  beca carter hollings & ferner (s. e. asia) pte ltd
+*  m&e engineers  :  beca carter hollings & ferner (s. e. asia) pte ltd
+*  quantity surveyor  :  davis langdon & seah singapore pte ltd
+*  contractors  :  acp construction pte ltd
+*  pv design  :  grenzone pte ltd
+*  pv manufacturer  :  various (7 manufacturers)
+type of pv integration  :  on metal roof, canopy, louver, railing, facade
+type of pv cell technology  :  various (mc-si, pc-si, a-si, hit, cigs) 
+pv area (m2)  :  1,540
+pv system peak power (kwp)  :  190
+estimated energy output (kwh / yr)  :  207,000
+pv yield (kwh / kwp / year)  :  1,090
+photographs and information 
+courtesy of   :  bca / grenzone pte ltd
+33
+figure a.1.1. building exterior
+figure a.1.3. pv array view (pv main roof)
+figure a.1.2. pv array view (pv sunshade)
+figure a.1.4. pv array view (pv staircase 
+facade)appendix a.1
+zero energy building @ bca academy
+the solar photovoltaic  system installed at bca academy's  zero-energy 
+building (zeb) consists of 12 systems with six systems connected to grid and 
+six standalone systems. featuring different types of solar pv technology and 
+mounting techniques,  the zeb @ bca academy's solar pv system is designed 
+to achieve zero-energy  and for advance academic research on various pv 
+performances.
+34
+building name  :  poh ern shih (temple of thanksgiving)
+owner  :  poh ern shih
+location  :  9 chwee chian road, singapore 117488
+building type  :  religious
+completion  :  2006 (phase i)
+working groups   
+*  project architects  :  lee coo consultant associates
+*  structural engineers  :  ktp consultants pte ltd
+*  m&e engineers  :  squire mech pte ltd
+*  quantity surveyor  :  wt partnership international limited
+*  contractors  :  wee hur construction pte ltd
+*  pv design  :  grenzone pte ltd
+*  pv manufacturer  :  uni-solar, sharp, mitsubishi
+type of pv integration  :  standing mounting structure
+type of pv cell technology  :  amorphous  monocrystalline  polycrystalline 
+   silicon silicon silicon 
+pv area (m2)  :  36.1  39.2  84.7
+pv system peak power (kwp)  :  2.232  5.250  11.340
+estimated energy output (kwh / yr)  :  2,566  6,036  13,038
+pv yield (kwh / kwp / year)  :  1,150  1,150  1,150
+photographs and information       
+courtesy of   :  grenzone pte ltdaappendix 
+a.2  poh ern shih (temple of thanksgiving)
+35
+the pv arrays are mounted on the rooftop with standing mounting structure, 
+allowing sufficient ventilation to improve pv performance.  about 25% of 
+electrical power demand in the building are supplied by the solar pv system.figure a.2.1. building exterior figure a.2.2.  building interior
+figure a.2.3.  pv array view figure a.2.4.  pv array viewappendix a.2
+poh ern shih (temple of thanksgiving)
+36
+aappendix 
+a.3  313 somerset central
+building name  :  313 somerset central
+owner  :  lend lease retail investment 1 pte ltd
+location  :  313 orchard road, singapore 238895
+building type  :  shopping mall
+completion  :  2009
+working groups   
+*  project architects  :  aedas pte ltd
+*  structural engineers  :  meinhardt infrastructure pte ltd
+*  m&e engineers  :  bescon consulting engineers pte ltd
+*  quantity surveyor  :  wt partnership pte ltd
+*  contractors  :  bovis lend lease pte ltd
+*  pv design  :  grenzone pte ltd
+*  pv manufacturer  :  various (4 manufacturers)
+type of pv integration  :  on trellis and metal roof
+type of pv cell technology  :  monocrystalline, polycrystalline, micromorph 
+pv area (m2)  :  587
+pv system peak power (kwp)  :  76
+estimated energy output (kwh / year) :  87,381pv yield (kwh / kwp / year)  :  1,150 photographs and information       
+courtesy of   :  bovis lend lease
+37
+313 somerset central is centrally located in the heart of singapore's  famous 
+orchard road. the solar photovoltaic  system consists of four pv arrays, with 
+a main pv array of 60 kwp mounted on the trellis, and three smaller arrays 
+featuring monocrystalline,  polycrystalline  and micromorph  solar modules that 
+are accessible by visitors.
+figure a.3.1. building exterior
+figure a.3.2. building exterior
+architect's impression of somerset central viewed from orchard roadappendix a.3
+313 somerset central
+38
+aappendix 
+a.4  sentosa cove
+building name  :  private
+owner  :  private
+location  :  sentosa cove, singapore
+building type  :  two-storey bungalow with basement
+completion  :  july 2008
+working groups   
+*  project architects  :  guz architects
+*  m&e consultant  :  herizal fitri pte ltd
+*  pv design  :  phoenix solar pte ltd
+*  main contractors  :  sunho construction pte ltd
+*  roofing contractor    sheet metal international
+*  pv manufacturer  :  uni-solar
+type of pv integration  :  glued onto approved fazonal metal roof
+type of pv cell technology  :  flexible amorphous silicon
+pv area (m2)  :  92
+pv system peak power (kwp)  :  5.712
+estimated energy output kwh / yr)  :  7,100pv yield (kwh / kwp / yr)  :  1,250
+photographs and information  :  phoenix solar pte ltd,         
+courtesy of     guz architects, and sheet metal international
+39
+this striking house stands out for its open layout, capped with twin curved roofs. the rear 
+roof has a turf lawn to keep it cool, while the front roof generates electricity with flexible 
+solar laminates, bonded unobtrusively  on top. this configuration  meets sentosa resort 
+management's  strict guidelines for roof aesthetics, which do not generally permit bare 
+metal roofs on bungalow developments.
+thanks to the laminates' light weight (less than 4kg/m2), the roof can make do with a 
+lighter and lower substructure cost than if it had to carry conventional clay tiles.
+figure a.4.1. 
+twin curved roofs, 
+green grass and pv
+figure a.4.2. 
+lightweight, flexible 
+laminates follow the 
+curved roof
+figure a.4.3. 
+testing the uni-solar 
+laminates during 
+installation
+appendix a.4
+sentosa cove
+40
+aappendix 
+a.5  marina barrage
+building name  :  marina barrage
+owner  :  pub, singapore's national water agency
+location  :  singapore
+building type  :  flood control 
+completion  :  2008
+working groups   
+*  project architects  :  architects team 3 pte ltd
+*  structural engineers  :  koh brothers building & civil engineering    
+      contractor (pte) ltd
+*  pv design  :  renewpowers technologies pte ltd
+*  building services  :  cegelec pte ltd
+*  contractors  :  koh brothers building & civil engineering    
+      contractor (pte) ltd
+*  pv manufacturer  :  solarworld asia pacific pte ltd
+type of pv integration  :  roof top
+type of pv cell technology  :  monocrystalline silicon
+pv area (m2)  :  1200 
+pv system peak power (kwp)  :  70
+estimated energy output (kwh / yr)  :  76,650pv yield (kwh / kwp/ yr)  :  1,095
+photographs and information          
+courtesy of   :  pub, singapore's national water agency
+41
+figure a.5.2. marina barrage solar park 
+marina barrage spans the mouth of the marina channel, creating singapore's  15th 
+reservoir, and its first in the city. 
+the barrage creates a freshwater lake to boost singapore's  water supply, acts as a tidal 
+barrier to prevent flooding in low-lying city areas, and keeps the water level consistent, 
+offering a venue for water-based activities in the heart of the city. but more than an engineering  showpiece,  the barrage exemplifies  the national water 
+agency's commitment towards environmental and water sustainability. one of singapore's largest commissioned  solar pv system at a single site to date, marina 
+barrage's solar park houses one of the largest collection of solar panels - 405 panels in 
+all - currently in operation in singapore. its 70kwp dc grid-tied solar pv system is the 
+first to be employed on such a large scale locally, and it comes with aesthetically  arranged 
+solar panels (panels are arranged in nine arrays of 15 by three panels) on the barrage's 
+green roof.the solar panels generate 
+50% of utility grade electricity 
+for lighting and general power in the visitor centre, 
+control room and offices. the 
+environmentally-friendly  grid-
+tied solar pv system does not require batteries, hence 
+eliminating the costs for battery replacement. 
+figure a.5.1. aerial view of 
+marina barrageappendix a.5
+marina barrage
+42
+aappendix 
+a.6  lonza biologics
+building name  :  lbxs2
+owner  :  lonza biologics tuas pte ltd
+location  :  tuas, singapore
+building type  :  biotech factory and laboratory
+completion  :  may 2009 
+working groups   
+*  project architects  :  rsp architects planners & engineers pte ltd
+*  m&e engineers  :  jacobs engineering singapore pte ltd
+*  pv design  :  phoenix solar pte ltd
+*  contractors  :  bovis lend lease pharmaceutical pte ltd
+*  pv manufacturer  :  rec (framed modules) and solar-fabrik (frameless    
+      laminates)
+type of pv integration  :  roof mounted on bluescope lysaght kliplok metal  roof
+type of pv cell technology  :  polycrystalline silicon
+pv area (m2)  :  1,330
+pv system peak power (kwp)  :  181
+estimated energy output (kwh/yr)  :  217,000pv yield (kwh/kwp/yr)  :  1,200
+photographs and information   :  phoenix solar pte ltd         
+courtesy of     and lonza biologics tuas pte ltd
+43
+the curved laboratory roof of the lonza biologic's lbxs2 factory offers prominent 
+visibility to maximise public awareness for a 181kwp solar pv system on an industrial 
+building. the bulk of the pv array consists of 744 pieces of rec210 modules, while 
+the flatter upper section of the roof is covered with 104 sf130/2 frameless laminates 
+from solar-fabrik.  without frames to trap water at shallow installation angles, these 
+laminates will avoid dirt accumulation.
+roof clamps were specially engineered to attach the pv module rails to the kliplok roof 
+seams without any penetrations.  lonza biologics was a recipient of one of the inaugural 
+solar pioneer grants under edb's solar capability scheme.
+figure a.6.3. installing the rec modulesfigure a.6.1. building exterior (rendering by rsp architects planners & 
+engineers pte ltd) 
+figure a.6.2. modules installed on the 
+6o-16o slopeappendix a.6
+lonza biologics
+

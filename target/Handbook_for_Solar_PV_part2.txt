@@ -1,0 +1,288 @@
+chapter 3
+appointing a solar pv system contractor
+  significantly,  most manufacturers  specify that the pv module output will be determined 
+by the flash testers in their own premises, rather than by a third party.
+  the  solar pv system contractor should assist in determining  whether a pv module 
+defect is covered by warranty, and should handle the situation with the manufacturer.
+ regular maintenance
+  during  the defect liability periof = open(os.path.join(src_path, path), 'r').read()d (usually for 12 months after installation),  solar pv system 
+contractors usually use remote monitoring data to prepare monthly performance reports 
+of the installed solar pv system. they should come on site to rectify any problems flagged by the remote monitoring service.
+ other relevant matters 
+  another  matter to be aware of is that pv module manufacturers  are constantly upgrading 
+their products, and adapting new sizes and dimensions  to suit market requirements. 
+this means that you may no longer be able to buy an identical pv module to replace a defective one in your pv array a few years after installation. newer pv modules are 
+likely to be more efficient or have different physical dimensions,  and may no longer fit 
+exactly into the gap left by the old pv module.
+  this  does not matter much on a large, ground-mounted  solar pv power plant, because 
+the new modules can form a new row. but on a building-mounted  solar pv system it 
+may spoil the aesthetics, and may cause problems to the electrical configuration.
+20
+4solar pv system 
+installation 
+requirements
+4.1  electrical installation licence
+  an  electrical installation refers to any electrical wiring, fitting or apparatus used for 
+the conveyance  and control of electricity in any premises. a solar pv system installed 
+within such premises forms part of the consumer's  electrical installation and should 
+comply with the requirements  stipulated in the electricity act (cap. 89a), the electricity 
+(electrical installations)  regulations  and the singapore standard cp5 code of practice 
+for electrical installations.  
+  under  the electricity act, the energy market authority ("ema") licenses all non-
+residential electrical installations,  with demand exceeding 45 kilo volt ampere or kva. for 
+residential electrical installations  and non-residential  electrical installations  with demand 
+below the threshold 45kva, no electrical installation licence is required. 
+  the  licence requires the owner of the electrical installation to engage an lew to take 
+charge of the electrical installation and comply with the relevant safety standards and 
+requirements.  your appointed lew shall consult sp powergrid ltd on their technical 
+requirements  and procedures,  if you wish to operate your solar pv system in parallel 
+with the power grid. the objective is to ensure all electrical installations,  including solar 
+pv systems, are safe to use. 
+4.2  electrical safety standards and requirements 
+  a grid-connected  solar pv system operates in parallel with the power grid supply.  the 
+power grid supply is considered the source, and the electrical installation with the solar 
+pv system connected is considered as the load. 
+  the  technical requirement  for installation of a solar pv system is given in section 612 of 
+the singapore standard cp5.  
+  there  are international  product standards on pv modules and electrical components.   for 
+example, pv modules should comply with the requirements  of iec 61215 for crystalline 
+silicon terrestrial pv modules or iec 61646 for thin-film terrestrial pv modules.  in 
+addition, pv array junction box, pv generator junction box and switchgear assemblies 
+should comply with the requirements of iec 60439-1.  
+21
+chapter 4
+solar pv system inst alla tion requirements
+4.3  application of electrical installation licence 
+  your  lew will be able to advise you whether you need to apply to ema for an electrical 
+installation licence for the use or operation of the electrical installation within the 
+premises of your building. 
+  if an electrical installation licence is needed, your lew will submit the licence application 
+to ema on your behalf. if you already have an electrical installation licence issued by 
+ema, you need not apply for a separate licence for the solar pv system within the same 
+premises.
+  the  electrical licence fee payable to ema is $100 per year (exclusive of goods and 
+services tax). 
+4.4  conservation and development control requirements
+  at present, there is no specific requirement  or control by the urban redevelopment 
+authority ("ura") on the use of installations  such as a solar pv system. however, 
+conservation  projects, or projects within the central area are subject to ura's urban 
+design evaluation process. 
+  the  standard development  control guidelines apply to projects that may not be subject 
+to conservation  or urban design requirements,  depending on which structure(s)  the 
+solar pv system is installed onto. for example, if a solar pv system is installed on the 
+rooftop of an attic, then the attic guidelines will apply. likewise, if a solar pv system is 
+installed on raised structures like a pavilion, then the pavilion guidelines will apply. 
+4.5  guidelines on conservation and development control
+  architects  are advised to refer to the conservation  and development  control guidelines 
+when designing a development  with a solar pv system installation.  the respective 
+guideline is available at ura's website:
+    http://www.ura.gov.sg/conservation/cons%20guidelines.pdf    http://www.ura.gov.sg/circulars/text/dchandbook.html
+  should  you have further enquiries on whether your installations  conflict with the urban 
+design or development  control guidelines, you may submit your enquiries to ura either 
+in person or through a qualified person ("qp") -- a qp is either a registered architect 
+or an engineer -- with the accompanying  plans of the structures on which the solar pv 
+system will be installed: 
+    conserved buildings
+    email: ura_conservation_cso@ura.gov.sg    tel: 6329 3355
+    non-conserved buildings
+    email: ura_dcd@ura.gov.sg    tel: 6223 4811
+22
+chapter 4
+solar pv system inst alla tion requirements
+  should  a formal development  application to ura be required, it must be made via a qp. 
+the details can be checked at the two web links below:
+    http://www.boa.gov.sg/register.html
+    http://www.peb.gov.sg/peb/process/searchpe4.6  structural safety and lightning protection 
+ structural safety
+  to ensure safety, there are measures and steps that need to be taken or considered 
+when installing a solar pv system onto a new or an existing building. for new building 
+developments,  the design of the structure must take into consideration  the loading of 
+the solar pv system installation, just like any other equipment mounted onto a building 
+structure. 
+  for  existing buildings, a professional  structural engineer may be required to carry out an 
+inspection of the roof structure, and do a calculation on the structural loading. if the roof 
+is unable to withstand the loading  of the solar pv system, structural plans will need to 
+be submitted to the building and construction  authority ("bca") for approval before a 
+building permit can be issued for commencement  of installation works. the application 
+guideline is available at the following bca's website:
+    http://www.bca.gov.sg/structuralplan/structural_plan_application.html
+ lightning protection
+  given  a certain location, solar pv systems are exposed to the threat of lightning strikes. 
+as lightning can cause damage to the pv modules and inverters, extra care must be 
+taken to ensure that proper lightning protection is provided for the solar pv system and 
+the entire structure. the inverters should be protected by appropriately  rated surge 
+arrestors on the dc side. it is good practice to also install surge arrestors on the ac side. 
+structures and pv module frames must be properly grounded.
+4.7  connection to the power grid 
+  if a solar pv system is designed to meet only a fraction of the electricity load, the 
+system will need to be interconnected  with the power grid to meet the remainder of the 
+consumer's needs for electricity. 
+  if a solar pv system needs to be grid-connected, interconnection is key to the safety of 
+both consumers and electrical workers, and to the protection of equipment.
+23
+chapter 4
+solar pv system inst alla tion requirements
+4.8  get connected to the power grid
+  if you intend to connect and operate your solar pv system in parallel to the power grid, 
+your appointed lew will have to consult sp powergrid ("sppg") on the connection 
+scheme and technical requirements.
+ 
+  the  following documents  set out the detailed consultation  process and technical 
+requirements:
+  *  the transmission code and the metering code are published at ema's website:  
+      http://www.ema.gov.sg/media/files/codes_of_practice/electricity/transmission_
+code.pdf
+      http://www.ema.gov.sg/media/files/codes_of_practice/electricity/metering_
+code.pdf
+  *  sppg's  handbook, how to apply for electricity connection,  is published at sp 
+powerasset's website:
+      http://www.sppowerassets.com.sg/pdf/howtoapply.pdf
+4.9  sale of solar pv electricity
+  the  excess electricity generated from a grid-connected  solar pv can be sold back to the 
+power grid.  the arrangements  needed to enable this sale of solar pv electricity vary, 
+depending on whether you are a contestable or non-contestable consumer.
+  consumers  are classified, based on their average monthly electricity consumption, 
+into:
+  *  contestable  consumers:  these consumers are the non-residential  consumers who 
+use more than 10,000 kwh of electricity a month. contestable  consumers have a 
+choice of who they wish to buy their electricity from. they may purchase electricity 
+from a retailer, directly from the wholesale market (provided they are registered 
+with the energy market company as market participants)  or indirectly from the 
+wholesale market through sp services.
+   *  non-contestable  consumers: these consumers comprise all the residential electricity 
+users and non-residential  consumers who use less than 10,000 kwh of electricity a 
+month. these consumers are supplied with electricity by sp services.
+ contestable consumers
+ if you are a contestable consumer generating electricity from a solar pv system and wish to sell and get paid for the electricity you inject into the power grid, you will be 
+required to register with the energy market company ("emc") to participate in the 
+wholesale electricity market, which is called the national electricity market of singapore 
+or nems. 
+24
+chapter 4
+inst alling a solar pv system
+figure 19. flowchart for electricity licences  the  flowchart in figure 19 describes the circumstances  under which the generation 
+licence or wholesaler (generation) licence is required.  
+generation licence or 
+wholesaler (generation) 
+licence not requiredapply to ema for 
+generation licence
+apply to ema for 
+wholesaler
+(generation) licenceproposed generation unit
+(e.g. cogen, pv system, etc.)
+generation capacity < 1mwgeneration capacity >= 10 mw?
+1mw >= generation capacity < 10 mw?connected to
+power grid?yes
+yes yesno
+nono
+  the  application procedures to register as a market participant with the emc and for 
+generation facility registration are set out in the market manual: market administration- 
+registration and authorisation, which is available at the emc website: 
+    http://www.emcsg.com/marketrules/marketmanuals
+  as a market participant, you will need to comply with the market rules, which is available 
+at emc's website:
+    http://www.emcsg.com/marketrules  by selling electricity in the wholesale electricity market, you will be paid the prevailing 
+electricity spot price for the electricity that you inject into the power grid. the electricity 
+spot price varies every half-hour, depending on the demand-supply  situation in the 
+wholesale electricity market.
+  the  market will also offer services and system resources to you, but you will be subjected 
+to market charges in respect to the gross generation output from your registered pv 
+system, for the provision of the market services and system resources. 
+25
+chapter 4
+inst alling a solar pv system
+  the emc contact is:
+    market administration team
+    energy market company     238a thomson road, #11-01 novena square tower a, s307684     telephone: 67793000     e-mail: info@emcsg.com
+ non-contestable consumers
+  if you are a non-contestable  consumer generating electricity of less than 1 mw and 
+wish to sell and get paid for the electricity you inject into the power grid, you need not 
+apply for a generation or wholesaler (generation  ) licence nor register with the emc 
+as a market participant.   you will have to apply to sp services ("sps") by following the 
+application procedure set out in appendix b. 
+  non-contestable  consumers are compensated  by sps for electricity exported to the 
+power grid by way of a credit adjustment to the consumer's  monthly electricity bill, 
+based on the prevailing low-tension electricity tariff less the grid charge. 
+  the  credit adjustment will effectively compensate  the non-contestable  consumer for 
+the amount of electricity exported into the power grid during that month. 
+  this  scheme to compensate  non-contestable  consumers with generation capacity of 
+less than 1mw for the electricity they export into the power grid is not applicable to 
+those consumers  whose electricity consumption  is metered under the master-sub 
+metering scheme.  
+  master-sub  metering schemes refer to metering arrangements  where there is a 
+master-meter  measuring the overall electricity consumed by the building (i.e. both the 
+individual units and the common services), with sub-meters measuring the usage of the 
+individual units.  such metering schemes are typically used in private condominiums 
+and commercial buildings.
+  under  a master-sub metering arrangement,  the electricity that an individual unit attempts 
+to export into the grid may in fact be used up by the common services or by other 
+individual units. as it is not possible to track the actual flow of the electricity exported 
+by the individual units, the credit adjustment scheme cannot be applied to those under 
+the master-sub metering scheme.
+26
+4.10  design and installation checklist 
+  you  are advised to refer to the following checklist once you have decided to install solar 
+pv system in your premises. 
+ no. design and installation checklist check box
+ 1 set your budget and select a location.  
+ 
+  2  determine the energy requirement and estimate the size  
+  of the system.  
+ 
+  3  perform a site survey for space needed, and access for maintenance.   
+ 
+  4  engage a licensed electrical worker ("lew") if your proposed   
+    solar pv system:
+    i)  is to be connected to the electrical installation within       the premises of the building; and /or    ii)  to be connected and operated in parallel to the power grid.
+    the appointed lew will be responsible for the design and 
+  implementation of the connection of your solar pv system to 
+    the electrical installation and/or power grid.  5 select a pv module type and mounting method. 
+ 
+ 
+  6  select inverter to match pv array: 
+    i)  number of inverters needed;
+    ii)  select inverter type; and    iii) location of inverters (accessible for inspection and maintenance).    7  finalise the mounting system. 
+ 
+ 
+  8  ensure there are fixing and mounting points available.   
+ 
+  9  ensure the structure for mounting is safe: 
+    i)  additional loading by solar pv system is considered;
+    ii)  wind loading is considered; and    iii) waterproofing is not compromised during installation.    10  ensure solar access: 
+    i)  ensure location to be mounted will get maximum exposure 
+   to sunlight; and
+    ii)  choose a location that is not shaded. chapter 4
+solar pv system inst alla tion requirements
+27
+ no. design and installation checklist check box
+  11  ensure all pv modules connected to the same inverter  
+  face the same direction.
+ 
+  12  ensure pv modules are mounted at an incline (10 to 15 degrees  
+    for framed modules, or as low as 3-5 degrees for unframed 
+    modules) for self-cleaning.
+  13  ensure sufficient ventilation space behind the pv array for   
+  cooling purposes.
+ 
+  14  ensure: 
+    i)  cabling used meet sufficient current-carrying capacity 
+      and are suitably rated for usage in the environment;    ii)  dc cables are single-core and double-insulated; and    iii) cable insulation on outdoor cables must withstand high       temperature and uv exposure for an estimated period    of more than 20 years.
+    note that pvc and xlpe cables are inadequate on the dc side     and must not be exposed to the weather elements.   15  determine if a lightning protection system is needed. 
+ 
+ 
+  16  ensure the pv module frame is earthed.    
+ 
+  17  finalise the inverter and ac wiring system.   
+ 
+  18  during installation: 
+    i)  pv system should be installed by qualified/experienced installers;
+    ii)  safety rules must be observed;     iii) installer must wear ppe; and     iv) only proper certified safety equipment can be used e.g. scaffolding, 
+stepladders, etc.
+   19  cables must be properly connected, secured, and routed. 
+ 
+  20  ensure continuity and insulation tests are done. 
+ 
+  21   completion of testing and system commissioning.   
+  22  proper system, documentation/manual handover to clients. chapter 4
+solar pv system inst alla tion requirements
+

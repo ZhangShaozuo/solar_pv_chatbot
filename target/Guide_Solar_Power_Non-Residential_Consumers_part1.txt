@@ -1,0 +1,371 @@
+ 
+solar pv - user guide for non -residential consumers   
+march 2020   1 
+ 
+ 
+table of contents  
+ 
+1. introduction  ................................ ................................ ................................ ................................ ... 2 
+2. electricity generation licence  ................................ ................................ ................................ ..... 3 
+3. electrical installation  ................................ ................................ ................................ ......................  3 
+4. connection requirements  ................................ ................................ ................................ ...........  5 
+5. market settlement  ................................ ................................ ................................ .......................  10 
+6. intermittency pricing mechanism  ................................ ................................ ..............................  15 
+7. monitoring requirements  ................................ ................................ ................................ ..........  16 
+8. ami meter charges  ................................ ................................ ................................ .....................  16 
+9. decommissioning requirements  ................................ ................................ ..............................  18 
+10. pv directory  ................................ ................................ ................................ ................................ . 19 
+ 
+   
+solar pv - user guide for non -residential consumers   
+march 2020   2 
+ 
+1. introduction  
+ 
+this section provides information applicable to non-residential consumers with 
+embedded solar pv systems to reduce their electricity consumption.  
+ 
+a brief summary of the relevant processes can be found in the flow chart in the website . 
+please refer to the following sections  for more information.  
+ 
+for more information on  the policy and regulatory framework for  solar , please refer to 
+ema's website .  
+ 
+ 
+   
+solar pv - user guide for non-residential consumers  
+december 2022   3 
+ 
+2. electricity generation licence   
+ 
+the electricity licensing requirements for solar pv systems will be based on the 
+aggregate of the alternating current (ac) inverter capacities ("installed generation 
+capacity") at the point of connection1 to the grid.   
+ 
+any person who engages in the generation of electricity with a solar pv system with 
+installed generation capacity of 1 mw ac or more but less than 10 mw ac is required to 
+apply to ema for a wholesaler (generation) licence.  for installed generation capacity 
+of 10 mw ac or more , he has to apply for a generation licence.  
+ 
+all relevant licences should be obtained before any turn -on of solar pv installations.  
+ 
+a summary of the licensing requirements is shown in the table below.  
+ 
+table  1: licensing requirements for solar pv systems  
+ 
+installed capacity of solar 
+pv system  connected to the 
+power grid?  type of licence * 
+below 1 mwac  yes exempted  no 
+1 mwac or more but less 
+than 10 mwac  yes wholesaler (generation) 
+licence  
+no exempted  
+10 mwac or more  yes generation licence  no 
+* an electrical installation licence may still be required.  
+ 
+application for the wholesaler or generation licence can be made on ema's website:  
+http://www.ema.gov.sg/licensees_electricity_licences.aspx . 
+3. electrical installation  
+ 
+an electrical installation refers to any electrical wiring, fitting or apparatus used for the 
+conveyance and control of electricity in any premises. a solar pv system installed within 
+such premises forms part of the consumer's electrical installation and shou ld comply 
+with the requirements stipulated in the electricity act (cap. 89a), the electricity (electrical 
+installations) regulations and the singapore standard cp5 code of practice for electrical 
+installations.  
+ 
+all electrical work for an electrical instal lation, including a solar pv system, must be 
+undertaken or carried out by a licensed electrical worker  (lew).  such electrical work 
+ 
+1 the point of connection refers to the poi nt at which the solar pv system is connected directly or 
+indirectly to sp powerasset's substation.    
+solar pv - user guide for non-residential consumers  
+december 2022   4 
+ 
+includes new wiring, rewiring and extensions which have to be tested before the 
+supply is turned on.  when consumer needs any  electrical work to be done at his 
+premises, he is advised to check that the person whom he intends to engage to 
+undertake or perform the electrical work has a valid electrical worker licence issued by 
+the authority.  
+ 
+it is an offence for a person:  
+ 
+i. to car ry out or caused to be carried out any electrical work unless he holds a valid 
+electrical worker licence; or  
+ii. to engage knowingly any person who is not a licensed electrical worker to carry 
+out any electrical work.  
+ 
+for more details, you may wish to refer t o elise website  for the list of lew and sp group 
+website  for the preferred pv partners of sp group.  
+ 
+electrical installation licence  
+ 
+lew will need to apply for an electrical installation licence for the installation if the 
+usage or operation of an electrical installation exceeds 45 kva of approved load for 
+non-domestic purposes  and for multi -metered premises . electrical installations  are 
+licensed  to ensure that owners/users of certain electrical installations engage a l ew to 
+take charge of and maintain their electrical installations for reason of safety.   
+ 
+a grid -connected solar pv system forms part of the consumer's electrical insta llation.  a 
+new solar pv system will be covered under the existing electrical installation licence  
+upon connection to the installation by the l ew taking charge of the electrical installation.  
+ 
+safety requirements  
+ 
+currently under the electrical installation licensing scheme, the consumer's appointed 
+lew is required to carry out safety inspection and certification of the electrical 
+installation, including the solar pv system, according to the conditions specified und er 
+the electrical installation licence.  
+ 
+solar pv system s require regular inspection and maintenance to ensure that the system 
+remains efficient and safe for operation.  in most cases, equipment manufacturers will 
+provide maintenance guidelines for their specific components.  it is important to ensure 
+that the maintenance requirement is carried out according to the recommendation and 
+certified by the lew.   
+ 
+ 
+  
+solar pv - user guide for non-residential consumers  
+december 2022   5 
+ 
+4. connection requirements  
+ 
+if you intend to connect and operate your solar pv system in parallel t o the power grid, 
+your appointed lew will have to complete the online application form and submit the 
+following documents to sps via singapore power (sp) ebusiness portal : 
+ 
+* document checklist and declaration of compliance to sp power grid's (sppg) 
+technical requirements  
+* application for net export rebate form  
+* letter of consent  
+* pq compliance report  
+* inverter(s) specifications  
+* solar p anel(s) specifications  
+* inverter(s) type test reports (harmonics , flicker , dc injection)  
+* single line diagram (from pv system to point of common coupling (pcc)  
+* pso data form (only applicable for solar pv system 1 mwac and above)  
+* certificate of compliance (only applicable for licensed installation who are 
+eligible to appoint their lew to commission the solar pv system)  
+* commissioning declaration (only applicable for licensed installation who are 
+eligible to appoint their lew to commission the solar pv system)  
+ 
+thereafter, your appointed lew will have to consult sppg on the connection scheme 
+and technical requireme nts.  
+ 
+for high tension and above (6.6kv and above) consumers with embedded igs / 
+generation, you will need to choose one of the 3 backup schemes (full or partial) 
+required:  
+ 
+(1) summation scheme;  
+(2) capped capacity scheme; or  
+(3) extended capped capacity scheme  
+ 
+you will need to sign a supplemental agreement with the transmission licensee to 
+reflect your choice of backup scheme for the service connection.  
+ 
+for more information on each scheme, please refer to sppg's guide on "how to apply 
+for electricity co nnection" available on the sp group website ( www.spgroup.com.sg ).  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+solar pv - user guide for non-residential consumers  
+december 2022   6 
+ 
+the simplified connection and turn -on application process for solar pv systems less 
+than 1 mwac are illustrated in figure 2 and 3.  
+ 
+ 
+figure 2:  application process for solar pv system connection  (less than 1 mwac)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+start  
+appointed lew to submit relevant 
+documents to sps  
+sps to inform lew (via letter) to 
+proceed with turn -on application  
+ 
+* concurrently, ht & above consumers 
+with embedded igs / generation to 
+sign supplemental agreement for 
+backup scheme  
+ 
+sppg to evaluate technical specifications 
+of the solar pv system pertaining to pq 
+requirements  
+compliance with 
+technical  
+requirements?  
+lew to re -submit 
+technical 
+requirements after 
+clarification  no 
+sppg sends technical assessment 
+completion letter to lew  
+ 
+end yes 
+lew to proceed with turn -on 
+application  
+(refer to fig 3 for turn -on application 
+process)  
+end  
+solar pv - user guide for non-residential consumers  
+december 2022   7 
+ 
+ 
+figure 3: turn -on application process for solar pv system  (less than 1 mwac)  
+ 
+  
+start 
+lew to submit turn -on application to sps  
+does the premise 
+have an electrical 
+installation licence?  
+no 
+lew to ensure that the relevant meters are 
+installed  
+sps to witness the commissioning of 
+solar pv system on the scheduled 
+turn -on date  
+end 
+lew to commission the solar pv 
+system  
+yes 
+lew to submit commissioning 
+declaration of solar pv system within 
+7 days of solar pv system 
+commissioning  to sppg  
+end  
+solar pv - user guide for non-residential consumers  
+december 2022   8 
+ 
+the simplified connection and turn -on application pr ocess for solar pv systems 1 mwac 
+and above are illustrated in figure 4 and 5.  
+ 
+figure 4: application process for solar pv system connection (1 mwac and above)  
+ 
+ 
+ 
+ 
+ 
+  
+ht & above consumers with 
+embedded igs / generation to 
+sign supplemental agreement for 
+backup scheme  
+start  
+appointed lew to submit relevant 
+documents to sps  
+lew to proceed with turn -on application  
+(refer to fig 5 for turn -on application process)  
+ 
+sppg to evaluate technical specifications 
+of the solar pv system pertaining to pq 
+requirements  
+ 
+compliance with 
+technical 
+requirements?  
+lew to re-submit 
+technical 
+requirements after 
+clarification  no 
+sppg sends technical assessment 
+completion  letter to lew  
+ 
+end yes  
+solar pv - user guide for non-residential consumers  
+december 2022   9 
+ 
+ 
+figure 5: turn -on application process for solar pv system (1 mwac and above)  
+ 
+  
+start 
+lew to submit turn -on application to sps  
+lew to ensure that the relevant meters are 
+installed  
+end 
+lew to commission the solar pv 
+system  
+lew to submit commissioning 
+declaration of solar pv system within 
+7 days of solar pv system 
+commissioning  to sppg   
+solar pv - user guide for non-residential consumers  
+december 2022   10 
+ 
+5. market settlement  
+ 
+the process required and the amount of payment received for selling excess solar 
+electricity back to the grid depends on the size of the solar  pv system and contestability 
+status of the consumer. an overview of the available payment schemes can be found 
+on ema's website . 
+ 
+consumers with embedded solar pv systems  will be given 'net settlement' of the 
+energy component. this means that consumers are either charged for their net 
+consumption or paid for their net generation within each trading period.  
+ 
+5.1 solar pv system below  1 mwac   
+ 
+non-contestable consumers (nccs)  
+ 
+for low tension (lt) nccs  with less than 1 mwac embedded solar pv system s, the solar 
+energy produced is first offset by their consumption of that premise. should there be 
+excess solar energy to be exported back to the grid, they will receive payment (the 
+prevailing low -tension electricity tariff minus grid charge) from sp  services (sps)  by way 
+of credit adjustment to the monthly electricity bill . the quarterl y revised low -tension 
+electricity tariff s can be found on sp group's website ( www.spgroup.com.sg ).   
+ 
+contestable consumers (ccs)  
+ 
+for ccs who wish to be paid for the excess electricity sold to the grid, they can register 
+with sps under the enhanced central intermediary scheme (ecis). under this simplified  
+arrangement, they will be paid the weighted average nodal price  through sps, fo r the 
+selling of excess solar electricity back to grid. sps will act as a central intermediary, by 
+passing through the payment and relevant market charges to consumers. such 
+consumers can  either choose (a) to install a meter to accurately measure the solar 
+electricity generated, or (b) to estimate their solar generation. for option (a), consumers 
+will need to install the relevant metering arrangement at each generation point. more 
+details on the meters can be found in section 8, ami meter charges. for option (b), the 
+solar generation will be estimated based on the solar genera tion profile (sgp)2 for the 
+calculations of the relevant payment and market charges. consumers need not install 
+any meters.  
+ 
+for ccs who do not wish to be paid for the excess electricity sold to the grid, they do 
+not need to register with emc as market pa rticipant or with sps under the ecis. they 
+will not be eligible for the 'net settlement' scheme  and also not be subjected to the 
+appli cable market charges.  
+ 
+2 the sgp is approved by the energy market authority ("ema") and is based on factors such as 
+singapore's historical average solar irradiance from 7am to 7pm. this is standardised for all consumers 
+with embedded solar pv systems  and will be updated by ema as new inf ormation becomes available.  
+  
+solar pv - user guide for non-residential consumers  
+december 2022   11 

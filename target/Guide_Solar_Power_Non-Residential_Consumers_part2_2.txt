@@ -1,0 +1,72 @@
+9. decommissioning requirements  
+ 
+if you intend to decommission the entire solar pv system installed in your premises any 
+time after they have been connected to the transmission system, your appointed lew 
+will have to complete the decommissioning form and submit to sp powergrid ltd at 
+least 30 days in advance before the intended decommission commences.  
+however, if the intent is to revise the solar pv capacity installed in your premises any 
+time after they have been connected to the transmission system, your appointed lew 
+will have to comple te the online application form and submit the following documents 
+to sps via singapore power (sp) ebusiness portal : 
+* document checklist and declaration of compliance to sp powergrid's (sppg) 
+technical requirements  
+* application for net export rebate form  
+* letter of consent  
+* pq compliance report  
+* inverter(s) specifications  
+* solar panel(s) specifications  
+* inverter(s) type test reports (harmonics, flicker, dc injection)  
+* single line diagram (from pv system to point of common coupling (pcc)  
+* pso data form (only applicable for solar pv system 1 mwac and above)  
+* certificate of compliance (only applicable for licensed installation who are 
+eligible to appoint their lew to commission the solar pv system)  
+* commissioning declaration (only applicable fo r licensed installation who are 
+eligible to appoint their lew to commission the solar pv system)  
+   
+solar pv - user guide for non-residential consumers  
+december 2022   19 
+ 
+10. pv directory  
+ 
+for enquiries on the following matters pertaining to solar pv systems, you may wish to 
+contact the following:  
+ 
+energy market authority (ema)  
+matters on:  contact information  
+electricity licences  economic regulation & licensing department   
+email: ema_enquiry@ema.gov.sg   
+tel: 6835 8000  
+electrical installation  
+licensed electrical 
+workers (lews)  electricity resilience & regulation department   
+email: lei_ema@ema.gov.sg   
+tel: 6835 8000  
+policy and regulatory 
+framework  policy department   
+email: ema_ppd@ema.gov.sg   
+tel: 6835 8000  
+monitoring requirements  energy management systems department   
+email: ema_pso_ems@ema.gov.sg   
+tel: 6835 8000  
+energy market company (emc)  
+matters on:  contact information  
+market registration  
+market payment / 
+charges  market administration   
+email: mpregistration@emcsg.com  
+tel: 6779 3000  
+ sp powergrid (sppg)  
+matters on:  contact information  
+technical clarification 
+regarding connection to 
+the g rid asset management & projects department   
+email: derenquiries@spgroup.com.sg  
+tel: 6916 8888  
+sp services (sps)  
+matters on:  contact information  
+application for 
+connection to the grid 
+and market settlement 
+with sps  electrical installation section   
+email: install@spgroup.com.sg  
+tel: 6916 7200  

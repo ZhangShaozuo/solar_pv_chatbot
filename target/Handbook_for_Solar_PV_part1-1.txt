@@ -1,0 +1,125 @@
+chapter 2
+solar pv systems on a building
+2.5  solar pv output profile
+  solar  pv only produces electricity when sunlight is available. the output of a solar pv 
+system varies with its rated output, temperature,  weather conditions, and time of the 
+day. the power output profile of the pv installation as shown in figure 17, at a selected 
+test site in singapore collected over a period from 2002-2004, in terms of its capacity 
+factor2 , shows a high variation of solar pv output.
+figure 15. bipv modules integrated 
+into a facade
+figure 16. bipv modules integrated into a  
+ skylight canopy2.4  aesthetic and creative approaches in mounting pv modules 
+  besides  mounting pv modules on the rooftop, customised  pv modules can be 
+integrated into the building facade in a creative, aesthetically  pleasing manner. they can 
+be mounted on any part of the rooftop or external walls that is well exposed to sunlight 
+e.g. skylights, cladding, windows, and external shading devices. 
+  they  can also be integrated into external structures such as facades and canopies, as 
+shown in figure 15 and figure 16, respectively.
+[2] pv output capacity factor = ratio of the actual output of the pv installation at time (t) over its output if it 
+had operated at full rated output.15
+2.6  solar pv yield
+ the amount of electricity you are able to generate from a solar pv system depends not 
+only on the availability of sunshine but also on the technology you choose to install.  for 
+example, a typical 10-kw rooftop solar pv system in singapore would produce about 
+11,000 to 12,500 kwh annually using crystalline pv modules, and 12,000 to 14,500 kwh 
+annually with amorphous silicon thin film  pv modules. 
+2.7  cost of a solar pv system
+  the  cost of your solar pv system will depend on many factors: system configuration, 
+equipment options, labour cost and financing cost. prices also vary depending on factors 
+such as whether or not your home is new, and whether the pv modules are integrated 
+into the roof or mounted on the roof. the cost also depends on the system size or 
+rating, and the amount of electricity it produces.  
+  generally,  solar pv systems entail high capital costs.  with solar power, you can save on 
+the purchase of electricity from the grid.  but even with these savings, it will take a long 
+time to recover the capital cost of the solar pv installation.   the operating costs for solar 
+pv installations  are negligible, but the annual maintenance  cost beyond the warranty 
+period may amount to 0.5% to 1% of the capital cost of the installation.
+  therefore  on an overall basis, solar pv-derived electricity is still much more expensive 
+than that from the power grid.  however, the cost of solar pv has historically been falling 
+by about 4% a year, and if this continues, solar pv may be competitive  within the next 
+10 years. for incentives on solar pv system, please refer to appendix d.
+figure 17. varying daily power output profile of pv installation  
+at a selected test site in singaporechapter 2
+solar pv systems on a building
+pv output capacity factor16
+3appointing a 
+solar pv system 
+contractor
+3.1  introduction
+  you  will need to select a contractor to install your solar pv system.  if interested, you 
+may check with the following organisations  for some solar pv system designers and 
+contractors: 
+  *  the  list of solar pv system companies in singapore, available from sustainable 
+energy association of singapore, by calling 6338 8578 or by visiting 
+    http://www.seas.org.sg/about-seas/our-committees/cleanenergy/54
+  *  the  singapore sustainable  development  industry directory 2008/2009,  available 
+from the singapore business federation, by calling 6827 6838 or by visiting 
+    http://www.sbf.org.sg/public/publications/industrydirectory.jsp  your  contractor will appoint a licensed electrical worker ("lew") who will be responsible 
+for the design, installation, testing, commissioning,  and maintenance  of your solar pv 
+system. 
+  in the case of non-residential  electrical installations  that require an electrical installation 
+licence, the appointed lew who supervises the electrical work ("design lew") may 
+not be the one who takes charge of your electrical installation ("installation  lew"). the 
+design lew will then have to work with the installation lew to work out the technical 
+issues. 
+  please  refer to appendix b for details on how you can engage an lew and the necessary 
+consultation process.17
+chapter 3
+appointing a solar pv system contractor
+3.2  getting started  
+  first,  compile a list of potential solar pv system contractors.  next, contact the 
+contractors to find out the products and services they offer. the following pointers may 
+give consumers a good sense of the contractor's capabilities: 
+ get an experienced and licensed contractor
+  experience  in installing grid-connected  solar pv systems is invaluable, because some 
+elements of the installation process, particularly interconnection  with the grid, are 
+unique to these systems. a contractor with years of experience will also demonstrate 
+an ability to work with consumers, and price their products and services competitively.
+  it is also important to get a contractor who is an lew.
+ choosing between bids 
+  if there are several bids for the installation of a solar pv system (it is generally a good 
+practice to obtain multiple bids), consumers should take steps to ensure that all of 
+the bids received are made on the same basis. comparing a bid for a solar pv system 
+mounted on the ground against another bid for a rooftop system is like comparing apples 
+to oranges. 
+  bids  should clearly state the maximum generating capacity of the solar pv system 
+[measured in watts peak (wp) or kilowatts peak (kwp)]. if possible, the bids should 
+specify the system capacity in ac watts, or specify the output of the system at the 
+inverter. 
+  bids  should also include the total cost of getting the solar pv system components, 
+including hardware, software, supporting structure, meter, installation, connection to the 
+grid (if applicable), permitting, goods and services tax, warranty, and future maintenance 
+cost (if applicable). 
+ solar pv system warranty 
+  a solar pv system is an investment that should last a long time, typically two to three 
+decades for grid-connected  applications.  the industry standard for a pv module warranty 
+is 20-25 years on the power output.
+  there are two main components to a pv module warranty:
+    *  a  workmanship  warranty that offers to repair, replace or refund the purchase 
+in case of defects. the period varies from one to as long as ten years, 
+depending on the manufacturer. two to five years is typical; and 18
+    *  a  limited power output warranty that offers a variety of remedies in case the 
+pv module's output under stc drops below certain level. most manufacturers 
+warrant at least 90% of the minimum rated output for 10 years, and 80% of 
+the minimum rated output for 20-25 years. take note that the minimum rated 
+output is usually defined as 95% of the rated output to allow for manufacturing 
+and measurement tolerances. see figure 18 for details.
+ chapter 3
+appointing a solar pv system contractor
+  take  note that under the limited power warranty, manufacturers  seldom offer to replace 
+the pv module itself. rather, at their sole discretion, they may offer to:
+ 
+    *  repair the defective pv modules;     *  supply  enough new pv modules to replace the lost power output in a pv 
+array. for example, if your 20kw pv array only produces 16.1kw under stc, 
+six years after installation, the manufacturer  may opt to supply you with 1kw 
+of pv modules to make up for the shortfall; or
+     *  refund  you for the lost power output, after deduction according to the number 
+of years in use. for a 25-year warranty, the annual deduction is normally 4%. 
+for example, if you find that your 20kw pv array only produces 16.1kw under 
+stc, six years after installation, the manufacturer  may opt to reimburse your 
+purchase price minus 24% (6 years x 4%).
+  in all cases, the manufacturer  does not cover your costs of dismounting,  transporting, 
+and reinstalling the pv modules. the warranty also excludes problems resulting from 
+improper installations;  repairs, changes or dismounting  by unqualified  personnel; 
+accidental breakage or abuse; lightning strikes and other acts of god.figure 18. understanding a manufacturer's limited power warranty

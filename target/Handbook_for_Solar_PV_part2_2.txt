@@ -1,0 +1,55 @@
+chapter 5
+28
+5operations and 
+maintenance 
+figure 20. examples of performance monitoring displays (courtesy of phoenix solar)
+5.1 operations of solar pv systems
+ 
+ the most practical indicator of the performance of the solar pv systems can be obtained from the remote monitoring and data logging software supplied by most inverter 
+manufacturers.
+  the  data logging software will record daily, monthly, and annual output for comparison of 
+the actual system performance  against the expected system performance.  see figure 
+20 for typical performance monitoring displays.
+   
+  solar  pv systems require minimal maintenance,  as they do not usually have moving 
+parts. however, routine maintenance  is required to ensure the solar pv system will 
+continue to perform properly.
+  it is a good practice for contractors  of solar pv systems to provide an operation & 
+maintenance  ("o&m") manual for the client. the manual should include basic system 
+data, test and commissioning data, o&m data, and warranty information.
+opera tions and maintenance
+5.2 recommended preventive maintenance works 
+  it is recommended  that preventive inspection and maintenance  works are carried out 
+every six to twelve months. the pv modules require routine visual inspection for signs 
+of damage, dirt build-up or shade encroachment.  solar pv system fixtures must be 
+checked for corrosion. this is to ensure that the solar pv system is safely secured.
+  while  the inverter's functionality  can be remotely verified, only on-site inspection can 
+verify the state of lightning surge arrestors, cable connections, and circuit breakers.
+  the  following table shows some recommendations  on the preventive maintenance 
+works on the components  and equipment, and the corresponding  remedial actions to 
+be carried out by qualified personnel.
+ s/n components/equipment description remedy/action
+  1  pv modules  check for dust/debris   wipe clean. do not
+      on surface of   use any solvents
+      pv module  other than water
+      check for physical   recommend
+   damage to any pv  replacement
+   module if found damaged
+      check for loose cable   retighten
+      terminations between   connection
+      pv modules, pv 
+      arrays, etc. 
+  
+      check for cable   replace cable if
+   conditions necessary
+  2  pv inverter  check functionality,   recommend
+   e.g. automatic  replacement if
+   disconnection upon  functionality fails 
+    loss of grid power 
+   supply
+       check ventilation   clear dust and dirt
+      condition  in ventilation system
+      check for loose   tighten connection
+   cable terminations
+       check for abnormal   recommend
+   operating temperature replacement

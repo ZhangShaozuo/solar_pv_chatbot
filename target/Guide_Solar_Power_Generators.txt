@@ -1,0 +1,485 @@
+solar pv - user guide for generators  
+september  2018   2 
+ 
+1. introduction  
+ 
+this section provides information applicable to solar pv generators  who install solar pv 
+systems to  inject all elect ricity generated into the grid  (e.g. solar farm).  
+ 
+a brief summary  of the relevant processes can be found in the flow chart below. please 
+refer to the following sections  for more information.  
+ 
+for more information on  the policy and regulatory framework for  solar , please refer to 
+ema's website .  
+ 
+  solar pv - user guide for generators        
+september  2018                  3 
+ 
+figure  1: overview process for solar pv generators  
+ 
+ 
+no generation capacity 
+> 1 mwac?  
+* no electricity generation 
+licence required  
+* register for the applicable 
+options available for market 
+participation and settlement 
+(refer to market settlement 
+section for more details)  
+*  
+* apply for the applicable generation licence 
+(refer to electricity generation licence section 
+for more details)  
+* register with the energy market company ( emc)  
+to receive payment for excess electricity sold 
+back to the grid (refer to market settlement 
+section for more details)  
+ no  
+solar pv owner to engage licensed electrical worker (lew) to be responsible 
+for the electrical works associated with the solar pv system  
+appointed lew to submit the required documents to sp services (sps) 
+(refer to connection requirements section for more details)  
+ 
+consumers to sign connection agreement   powergrid (sppg) to evaluate and 
+discuss with lew on the technical 
+requirements and specifications of 
+the solar pv system pertaining to 
+pq requirements  start  
+yes comply with technical 
+requirements?  
+sps to inform lew to proceed with turn -
+on application  
+turn -on * all required documents need to be submitted and approved before 
+turn -on. 
+ yes  
+solar pv - user guide for generators  
+september 2018            4 
+ 
+2. electricity generation licence  
+ 
+the electricity licensing requirements for solar pv systems will be based on the 
+aggregate of the alternating current (ac) inverter capacities ("installed generation 
+capacity") at the point of connection1 to the grid.   
+ 
+any person who engages in the generation of electricity with a solar pv system with 
+installed generation capacity of 1 mw ac or more but less than 10 mw ac is required to 
+apply to ema for a wholesaler (generation) licence.  for installed generation capacity 
+of 10 mw ac or more , he has to apply for a generation licence.  
+ 
+all relevant licenses should be obtained before any turn -on of solar pv installations.  
+ 
+a summary of the licensing requirements is shown in the table below.  
+ 
+table  1: licensing requirements for solar pv system  
+ 
+installed capacity of solar 
+pv system  connected to the 
+power grid?  type of licence * 
+below 1 mwac  yes exempted  no 
+1 mwac or more but less 
+than 10 mwac  yes wholesaler (generation) 
+licence  
+no exempted  
+10 mwac or more  yes generation licence  no 
+* an electrical installation licence may still be required.  
+ 
+application for the wholesaler or generation licence can be made on ema's 
+website: http://www.ema.gov.sg/licensees_electricity_licences.aspx  
+3. electrical installation  
+ 
+an electrical installation refers to any electrical wiring, fitting or apparatus used for the 
+conveyance and control of electricity in any premises. a solar pv system installed within 
+such premises forms part of the consumer's electrical installation and should comply 
+with the requirements stipulated in the electricity act (cap. 89a), the electrici ty (electrical 
+installations) regulations and the singapore standard cp5 code of practice for electrical 
+installations.  
+ 
+all electrical work for an electrical installation, including a solar pv system, must be 
+undertaken or carried out by a licensed electrical workers (lews).  such electrical work 
+                                                           
+1 the point of connection refers to the point at which the solar pv system is connected directly or 
+indirectly to sp powerasset's substation.    
+solar pv - user guide for generators  
+september 2018            5 
+ 
+includes new wiring, rewiring and extensions which have to be tested before th e 
+supply is turned on.  when consumer needs any electrical work to be done at his 
+premises, he is advised to check that the person whom he intends to engage to 
+undertake or perform the electrical work has a valid electrical worker licence issued by 
+the auth ority.  
+ 
+it is an offence for a person:  
+ 
+i. to carry out or caused to be carried out any electrical work unless he holds a valid 
+electrical worker licence; or  
+ii. to engage knowingly any person who is not a licensed electrical worker to carry 
+out any electrical wo rk. 
+ 
+for more details, you may wish to refer to elise website  for the list of lew and sp group 
+website  for the preferred pv partners of sp group.  
+ 
+electrical installation licence  
+ 
+lew will need to apply for an electrical installation licence for the installation if the 
+usage or operation of an electrical installation exceeds 45 kva of approved load for 
+non-domestic purposes. e lectrical installations  are licensed  to ensure that owners/users 
+of certain electrical installations engage a lew to take charge of and maintain their 
+electrical installations for reason of safety.   
+ 
+a grid -connected solar pv system is also categorised as an electrical installation.  a new 
+solar pv system will be covered under the existing electrical installation licence  upon 
+connection to the installation by the lew taking charge of the electrical installation.  if 
+there is no existi ng electrical installation licence, the lew shall apply for electrical 
+installation licence for his solar pv system.  
+ 
+safety requirements  
+ 
+currently under the electrical installation licensing scheme, the consumer's appointed 
+lew is required to carry out safety inspection and certification of the electrical 
+installation, including the solar pv system, according to the conditions specified und er 
+the electrical installation licence.  
+ 
+solar pv system s require regular inspection and maintenance to ensure that the system 
+remains efficient and safe for operation.  in most cases, equipment manufacturers will 
+provide maintenance guidelines for their specific components.  it is important to ensure 
+that the maintenance requirement is carried out according to the recommendation and 
+certified by the lew.  
+ 
+ 
+ 
+  
+solar pv - user guide for generators  
+september 2018            6 
+ 
+4. connection requirements  
+ 
+if you intend to connect and operate your solar pv system in parallel to the power grid, 
+your appointed lew will have to complete the online application form and submit the 
+following documents to sps via singapore power (sp) ebusiness portal : 
+ 
+* document checklist and declaration of compliance to sp powergrid's (sppg) 
+technical requirements  
+* application for net export rebate form  
+* letter of consent  
+* pq compliance report  
+* inverter(s) specifications  
+* solar panel(s) specifications  
+* inverter(s) type test reports (harmonics , flicker , dc injection)  
+* single line diagram (from pv system to point of common coupling (pcc)  
+* pso data form (only applicable for solar pv systems 1  mwac and above)  
+* certificate of compliance (only applicable for licensed installat ion who are 
+eligible to appoint their lew to commission the solar pv system)  
+* commissioning declaration (only applicable for licensed installation who are 
+eligible to appoint their lew to commission the solar pv system)  
+ 
+thereafter, your appointed lew will have to consult sppg on the connection scheme 
+and technical requirements.  
+ 
+you will need to sign a connection agreement with the transmission licensee for the 
+generation connection to your pv generation facility.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+solar pv - user guide for generators  
+september 2018            7 
+ 
+the simplified connection  and turn -on application process for solar pv generators  are 
+illustrated in figure 2 and 3.  
+ 
+figure 2: application process for solar pv generator  connection  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+consumers to sign connection 
+agreement  
+start  
+appointed lew to submit relevant 
+documents to sps  
+lew to proceed with turn -on application  
+(refer to fig 3 for turn -on application process)  
+ 
+sppg to evaluate technical specifications 
+of the solar pv system pertaining to pq 
+requirements  
+ 
+compliance with 
+technical 
+requirements?  
+lew to re -submit 
+technical 
+requirements after 
+clarification  no 
+sppg sends technical assessment 
+completion  letter to lew  
+ 
+end yes  
+solar pv - user guide for generators  
+september 2018            8 
+ 
+ 
+figure 3: turn -on application process for solar pv generator  connection   
+ 
+ 
+  
+start  
+lew to submit turn -on application to sps  
+does the premise  
+have an electrical 
+installation licence?  
+no 
+lew to ensure that the relevant meters are 
+installed  
+sps to witness the commissioning of 
+solar pv system on the scheduled 
+turn -on date  
+end 
+lew to commission the solar pv 
+system  
+yes 
+lew to submit certificate of 
+compliance (coc) and 
+commissioning declaration of solar 
+pv system within 7 days of solar pv 
+system commissioning  to sppg  
+end  
+solar pv - user guide for generators  
+september 2018            9 
+ 
+5. market settlement  
+ 
+similar to other commercial generators, a standalone solar pv generator is required to 
+register with the energy market comp any (emc) as market participant  (mp) ; and to 
+register their solar generation facility, in order to receive payment for export of 
+electricity into the grid.  they will be paid nodal price  for the selling of solar electricity 
+back to the grid , and are subjected to the applicable market charges.  
+ 
+the required registration documents can be found below.  
+ 
+market participant registration  
+* mp registration form   
+* signed pso-mp agreement  and generation facility operating (gfo) agreement 
+with pso (if applicable)  
+ 
+generation facility  registration  
+* the generation facility registration form  (which includes pso standing data form 
+for igs)  
+* approved connection agreement from sp powerasset s  
+* signed mssl -mp agreement   
+ 
+all the documents should be approved before the solar pv system is turned on.  
+ 
+a summary of the market payments and charges for such ins tallations can be found in 
+the table below.  
+ 
+table 2: market payment and charges for standalone solar pv generators  
+ 
+applicable payments 
+/ charges  description  
+energy payment / charges  
+energy generation  nodal price (to be paid based on net export)  
+energy consumption  uniform singapore electricity prices (usep) + hourly energy uplift 
+charge (heuc)  
+(to be charged based on net import)  
+reserves charges  
+spinning reserves  only applicable for solar pv systems  more than 10 mwac  
+(subject to change based on  the new pricing mechanism framework)  
+regulation reserves 
+(i.e. afp)  half-hourly afp  
+(to be charged based on gross generation and gross consumption)  
+non-reserves market charges  
+emc fees   yearly revised emc fees  
+(to be charged based on net import or net export)  
+power system 
+operator (pso) fees  daily revised pso fees  
+(to be charged based on net import or net export)  
+market support 
+services (mss) 
+charge  yearly revised mss charge  
+(to be charged based on net import only)   
+solar pv - user guide for generators  
+september 2018            10 
+ 
+applicable payments 
+/ charges  description  
+monthly energy 
+uplift charge (meuc)  monthly revised meuc prices  
+(to be charged based on net import only)  
+grid charges  
+use of system (uos)  yearly revised uos charge  
+(to be charged based on import channel)  
+uncontracted 
+capacity charge 
+(high -tension & 
+above network only)  cost is dependent on type of backup required  
+6. intermittency  pricing mechanism  
+ 
+given the intermittent nature of solar pv, reserves from conventional power sources 
+are required to ensure system stability. for example, cloud cover or shadows may 
+cause solar pv output to drop quickly, which requires the need for reserves to make up 
+for the shortfall. without the back -up through reserves sources, consumers are 
+exposed to the risk of power disruptions, which happened in other countries with large 
+amounts of intermittent gene ration.  
+ 
+to ensure the sustainable growth of solar, a balance has to be struck between the 
+benefits of solar generation and the intermittency costs it imposes on the system. 
+hence, it is appropriate to consider a mechanism, intermittency pricing mechanism 
+(ipm), to allocate the fair share of reserves costs to solar.  
+ 
+upon its implementation, the ipm will apply to all igs, except for certain groups which 
+the ema had previously indicated that would not be subject to the ipm. the groups 
+include:  
+ 
+a. residential consumers with embedded solar pv systems below 1 mwac ; and  
+b. non-residential consumers with embedded solar pv systems  connected to the 
+system on or before 31 january 2018, unless (i ) they retrofit their igs systems such 
+that re -commissioning by sp powergrid would be required in the process; or (ii) 25 
+years from the commissioning date of their existing igs systems, whichever occurs 
+earlier.  
+ 
+more details on the ipm can be found in e ma's consultation paper .  
+ 
+ 
+   
+solar pv - user guide for generators  
+september 2018            11 
+ 
+7. monitoring requirements  
+ 
+with the expec ted increase in solar pv systems in singapore, the power system 
+operator (pso) would need to manage the intermittent nature of such sources to 
+ensure that the security and reliability of the power system is not compromised. most 
+importantly, pso also needs  to ensure that sufficient reserve capacity is available to 
+respond to sudden fluctuations in solar output.  
+ 
+hence, pso shall require solar pv systems with an installed capacity of 1 mwac and 
+above  at each site/facility to provide the active power output (ac -side) of its solar pv 
+system(s), sampled at one -minute intervals  and solar irradiance from sensor installed in 
+close proximity to the pv panels . 
+ 
+for more detailed technical requirement, please contact ema  at 
+ema_pso_ems@ema.gov.sg .  
+ 
+localised network limit  
+ 
+as there may be physical constraints of each network ring, there could be a limit to the 
+amount of solar pv systems that the network circuit can support. therefore, depending 
+on the limitations in that area, the permissible capacity of solar pv systems in each 
+location may differ. hence, parties who wish to invest in solar pv systems should check 
+if there are possible network constraints in their preferred locations, before making 
+their investment decisions.  
+8. decommissioning requirements  
+ 
+if you intend to decommission the entire solar pv system installed in your premises any 
+time after they have been connected to the transmission system, your appointed lew 
+will have to complete the decommissioning form and submit to sp power grid ltd at 
+least 30 days in advance before the intended decommission commences.  
+however, if the intent is to revise the solar pv capacity installed in your premises any 
+time after they have been connected to the transmission system, your appointed lew 
+will have to comple te the online application form and submit the following documents 
+to sps via singapore power (sp) ebusiness portal : 
+* document checklist and declaration of compliance to sp power grid's (sppg) 
+technical requirements  
+* application for net export rebate form  
+* letter of consent  
+* pq compliance report  
+* inverter(s) specifications  
+* solar panel(s) specifications   
+solar pv - user guide for generators  
+september 2018            12 
+ 
+* inverter(s) type test reports (harmonics , flicker , dc injection)  
+* single line diagram (from pv system to point of common coupling (pcc)  
+* pso data form (only app licable for solar pv systems 1  mwac and above)  
+* certificate of compliance (only applicable for licensed installation who are 
+eligible to appoint their lew to commission the solar pv system)  
+* commissioning declaration (only applicable for licensed installation who are 
+eligible to appoint their lew to commission the solar pv system)  
+   
+solar pv - user guide for generators  
+september 2018            13 
+ 
+9. pv directory  
+ 
+for enquiries on the following matters pertaining to solar pv systems, you may wish to 
+contact the following:  
+ 
+energy market authority (ema)  
+matters on:  contact information  
+electricity licences  economic regulation & licensing department   
+email: ema_enquiry@ema.gov.sg   
+tel: 6835 8000  
+electrical installation 
+licence  
+licensed electrical 
+workers (lews)  electricity resilience & regulation department   
+email: lei_ema@ema.gov.sg   
+tel: 6835 8000  
+policy and regulatory 
+framework  policy department   
+email: ema_ppd@ema.gov.sg   
+tel: 6835 8000  
+monitoring requirements  energy management systems department   
+email: ema_pso_ems@ema.gov.sg   
+tel: 6835 8000  
+energy market company (emc)  
+matters on:  contact information  
+market registration  
+market payment / 
+charges  market administration   
+email: mpregistration@emcsg.com  
+tel: 6779 3000  
+sp powergrid (sppg)  
+matters on:  contact information  
+technical clarification 
+regarding connection to 
+the grid  asset management & projects department   
+email: derenquirie s@spgroup.com.sg  
+tel: 6 916 8888  
+sp services (sps)  
+matters on:  contact information  
+application for connection 
+to the grid  and market 
+settlement with sps  electrical installation section   
+email: install@spgroup.com.sg   
+tel: 6 916 7200  
+ 
+ 

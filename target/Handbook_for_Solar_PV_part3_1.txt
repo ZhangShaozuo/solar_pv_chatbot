@@ -1,0 +1,274 @@
+building name  :  zero energy house
+owner  :  private
+location  :  district 15, singapore
+building type  :  residential, 21/2-storey semi-detached house
+completion (renovation)  :  april 2008 
+working groups   
+*  project architects  :  art & architecture collaborative
+*  structural engineers  :  portwood & associates
+*  pv design  :  phoenix solar pte ltd
+*  contractors  :  mcl construction & engineering pte ltd
+*  pv manufacturer  :  mitsubishi heavy industries and phoenix solar
+type of pv integration  :  roof mounted on metal roof
+type of pv cell technology  :  amorphous silicon and micromorph silicon thin films
+pv area (m2)  :  120
+pv system peak power (kwp)  :  8.58
+estimated energy output (kwh/year)  :  12,000pv yield (kwh/kwp/yr)  :  1,400
+photographs and information          
+courtesy of   :  phoenix solar pte ltdaappendix 
+a.7  zero energy house
+45
+figure a.7.2. w est roof flank with micromorph pv modules figure a.7.1. building roof with two types of pv module
+this 1960s semi-detached  house was converted into singapore's first modern zero-energy 
+home by reducing solar heat gain, improving natural ventilation and adding a rooftop solar 
+pv system, which generates more electricity than the 6-person household consumes.
+the pv modules are mounted on rails that are clamped to the seams of the aluminium 
+kalzip roof without any roof penetrations.  as an important added benefit, the pv modules 
+shade the roof, keeping the attic rooms much cooler than they would be under a roof fully 
+exposed to the sun.appendix a.7
+zero energy house
+46
+building name  :  tampines grande
+owner  :  city developments ltd
+location  :  tampines, singapore
+building type  :  office building
+completion  :  may 2009 
+working groups   
+*  project architects  :  architects 61 pte ltd
+*  m&e engineers  :  conteem engineers pte ltd
+*  pv design  :  phoenix solar pte ltd
+*  contractors  :  dragages singapore pte ltd / byme singapore
+*  pv manufacturer  :  suntech (rooftop) and schott solar (bipv)
+type of pv integration  :  roof mounted and building integrated facade
+type of pv cell technology  :  monocrystalline silicon and amorphous silicon thin film bipv
+pv area (m2)  :  934
+pv system peak power (kwp)  :  107
+estimated energy output (kwh/yr)  :  120,000pv yield (kwh/kwp/yr)  :  1,200
+photographs and information  :  phoenix solar pte ltd         
+courtesy of     and city developments ltdaappendix 
+a.8 tampines grande
+47
+figure a.8.1. 6kwp bipv facade on t ower 2
+figure a.8.2. partially completed pv array
+ figure a.8.3. aerial view of both towers
+101kwp of monocrystalline  pv modules form the main rooftop pv array on towers 1 and 
+2, while the west facade of tower 2 has 6kwp of bipv comprising 40 large, custom-built 
+amorphous silicon thin film modules.
+at the time of completion,  this was singapore's  largest pv system, and the first 
+commercial application of a thin film bipv facade.the building also boasts a solar air-conditioning  system powered by solar thermal 
+collectors.tampines grande was a recipient of one of the inaugural solar pioneer grants under 
+edb's solar capability scheme.appendix a.8
+tampines grande
+48
+aappendix 
+a.9  hdb apar tment blocks 
+ a t serangoon nor th precinct
+building name  :  hdb apartment blocks at serangoon north precinct
+owner  :  ang mo kio- yio chu kang town council
+location  :  serangoon north avenue 3 block 548 to 554    
+      and 550a (multi-storey carpark)
+building type  :  residential
+completion  :  2008
+working groups   
+*  contractors  :  king wan construction pte ltd &      
+      asiatic engineering pte ltd
+*  pv manufacturer  :  sunset energietechnik gmbh
+type of pv integration  :  roof top
+type of pv cell technology  :  mono-crystalline silicon
+precinct pv area (m2)  :  667.61
+precinct pv system peak power (kwp) :  75.75
+estimated energy output (kwh / yr)  :  80,300pv yield (kwh / kwp/yr)  :  1,060
+pv photographs and information          
+courtesy of   :  hdb
+49
+figure a.9.1. t ypical rooftop pv array layout at serangoon north precinct
+the serangoon north precinct consists of 
+five blocks of 16 storey and two blocks of 
+nine storey residential apartments and a multi 
+storey car park (mscp).  sixty-nine pieces of 
+solar pv panels are mounted at the rooftop of each residential block and 22 pieces of the panel at the staircase roof of the mscp.appendix a.9 
+hdb apar tment blocks 
+at serangoon nor th precinct
+50
+building name  :  hdb apartment blocks at wellington circle precinct
+owner  :  sembawang  town council
+location  :  wellington circle 508a-c, 509a-b, 510a-b & 508 (mscp)
+building type  :  residential
+completion  :  2008
+working groups   
+*  contractors  :  king wan construction pte ltd &        
+      asiatic engineering pte ltd
+*  pv manufacturer  :  sunset energietechnik gmbh
+type of pv integration  :  roof top
+type of pv cell technology  :  mono-crystalline silicon
+precinct pv area (m2)  :  667.61
+precinct pv system peak power (kwp) :  75.75
+estimated energy output (kwh / yr)  :  80,300pv yield (kwh / kwp/ yr)  :  1,060
+photographs and information          
+courtesy of   :  hdbaappendix 
+a.10 hdb apar tment blocks  
+ a t wellington circle precinct
+51
+figure a.10.1. t ypical rooftop pv array layout at w ellington circle precinct
+the wellington  circle precinct consists 
+of seven blocks of 12 storey residential 
+apartments  and a mscp.  sixty-nine pieces 
+of solar pv panels are mounted at the rooftop 
+of each residential block and 22 pieces of the panel at the staircase roof of the mscp.
+appendix a.10
+hdb apartment blocksat wellington circle precinct
+52
+bappendix 
+b.  engaging a licensed 
+     electrical worker
+1.  engaging a licensed electrical worker (lew)
+1.1   there  are three classes of lews: licensed electrician, licensed electrical technician, and 
+licensed electrical engineer. the various classes of lews are authorised to design, install, 
+repair, maintain, operate, inspect and test electrical installations  according to the conditions 
+stated below:
+ class of lew approved load voltage level
+  electrician  not exceeding 45 kva  1000v & below
+  electrical technician  not exceeding 150 kva        
+  (design); not exceeding 500 kva       
+  (operation)  1000v & below
+  electrical engineer  no limit  subject to license conditions
+1.2  the singapore standard for electrical safety applicable to solar pv systems is set out in 
+the code of practice for electrical installations  (singapore standard cp5:2008), which is 
+published by spring singapore. the lew whom you appoint to carry out or supervise the 
+electrical works associated with your pv system will be responsible  for the compliance 
+with the relevant safety standards and requirements.  
+1.3   you can search for lews and their contact particulars at the following ema website:   http://elise.ema.gov.sg
+1.4   for enquiries on lews, you can contact ema's electricity inspectorate branch at: 
+  tel: 6835 8060  email: ema_enquiry@ema.gov.sg
+53
+2  guide for consumers - installation of solar pv systemsappendix b.1
+engaging a licensed  electrical worker
+54
+cc.1 cont act informa tionappendix 
+for enquiries on the following matters pertaining to solar pv systems, please contact:
+  (1)   buildings issues  building and construction authority (bca)
+    email: bca_equiry@bca.gov.sg
+    tel: 1800-3425222 (1800-dial bca)
+(2)   development planning control   urban redevelopment authority (ura)
+  - conserved buildings  building conservation
+    email: ura_conservation_cso@ura.gov.sg
+    tel: 6329 3355
+(3)   development planning control   urban redevelopment authority (ura)
+  - non-conserved buildings   non-conserved buildings    email: ura_dcd@ura.gov.sg
+    tel: 6223 4811
+(4)   electricity generation licences  energy market authority (ema)
+    economic regulation & licensing department 
+    email: ema_enquiry@ema.gov.sg
+    tel: 6835 8000
+(5)   licensed electrical workers   energy market authority (ema)
+  ("lews")  electricity inspectorate branch 
+    email: ema_enquiry@ema.gov.sg
+    tel: 6835 8060
+(6)   electricity market rules,   energy market company (emc)
+  market registration process,   market administration team  and market charges  email: mpregistration@emcsg.com
+    tel: 6779 3000
+(7)   connection to the power grid  sp services ltd (sps)
+    email: install@singaporepower.com.sg
+    tel: 6823 8283 / 6823 8284
+(8)   connection to the power grid  sp powergrid ltd (sppg)
+    email: dgconnection@singaporepower.com.sg
+    tel: 6823 8572
+55
+dappendix 
+d.1 solar capability scheme (scs)
+the economic development board (edb) unveiled the solar capability 
+scheme to spur demand and build up expertise for this young but growing 
+field. the scheme - the latest by clean energy programme office (cepo) - seeks to strengthen critical capabilities of companies engaged in activities such as engineering, architecture and system integration through increased implementation of solar energy technologies by lead users in singapore.
+agency  :  edb
+quantum  :   $20 million (overall); $1 million per project or up to 40% of    
+  total capital cost of solar technology.
+target group  :   engineering;   architecture;
+  system integration
+    (with implementation of solar energy technologies)
+for reading  :   http://www.edb.gov.sg/edb/sg/en_uk/index/news/articles/        cepo_launches_solar.html
+    http://www.edb.gov.sg/edb/sg/en_uk/index/news/articles/    
+    award_ceremony_for_solar_testbeds.html
+for details  :  http://www.edb.gov.sg/etc/medialib/downloads/industries.        par.98811.file.tmp/solar%20capability%20scheme%20factsheet.pdf
+56
+dappendix 
+d.2  market development fund (mdf)
+the mdf seeks to incentivise the use of clean and renewable energy 
+resources among non-residential consumers and developers by offsetting 
+the market charges and related costs associated with selling clean and renewable energy into the power grid. this will help to promote energy efficiency as well as help in the market integration of innovative clean and renewable energy resources. 
+agency  :  energy market authority (ema)
+quantum  :   $5 million; $50,000 over a span of 5 years  or 90% of incurred 
+    market charges for approved projects, whichever is lower. 
+target group  :  non-residential consumers and developers who choose to sell        excess electricity generated from clean and renewable energy    
+    technologies to the power grid.
+for details  :  http://www.ema.gov.sg/index.php?option=com_content&view=artic     le&id=125&itemid=141 
+57
+agency  :  building and  construction authority (bca)
+target group  :  developers
+    designers
+    builders
+for reading  :  http://www.greenmark.sg
+    http://www.bca.gov.sg/greenmark/green_mark_buildings.html
+for details  :  http://www.bca.gov.sg/greenmark/others/gmtc.pdfdappendix 
+d.3  green mark scheme
+the green mark scheme was launched to promote environmental awareness 
+in the construction and real estate sectors. it is a benchmarking scheme 
+that aims to achieve a sustainable built environment by incorporating best practices in environmental design and construction, and the adoption of green building technologies.
+58
+dappendix 
+d.4  green mark gross floor area  
+ (gm-gf a) incentive scheme
+to encourage the private sector to develop buildings that attain higher tier 
+green mark ratings (i.e. green mark platinum or green mark goldplus), 
+bca and the urban redevelopment authority (ura) have introduced a set 
+of gross floor area (gfa) incentives on 29 apr 2009. for developments attaining green mark platinum or gold
+plus, ura will grant additional floor 
+area over and above the master plan gross plot ratio (gpr) control.
+agency  :  bca and ura
+target group  :  all new private developments, redevelopments and
+    reconstruction developments submitted on or after the
+    effective date.
+for details  :  http://www.bca.gov.sg/greenmark/gmgfa.html
+59
+dappendix 
+d.5  $100 million green mark incentive
+ scheme for existing buildings
+ (gmis-eb)
+the gmis-eb aims to encourage private building owners of existing 
+buildings to undertake improvements and/or retrofits to achieve substantial 
+improvement in energy efficiency. it provides a cash incentive that co-funds up to 35% (capped at $1.5 million) of the upgrading/retrofitting costs for energy efficiency improvement in their existing buildings.
+agency  :  bca
+target group  :  building owners/developers of private existing non-     
+    residential developments that is centrally air-conditioned,
+    with gross floor area of 2,000 sqm above e.g. energy      
+    intensive buildings such as shopping malls, hotels, office 
+    buildings, hospitals, and other centrally air-conditioned      
+  buildings.
+      for details  :  http://www.bca.gov.sg/greenmark/gmiseb.html
+60
+agency  :  bca
+target group  :  developers, building owners, project architects and m&e   
+    engineers who make efforts to achieve at least a bca green 
+    mark gold rating or higher in the design and construction of
+    new buildings.
+for details  :  http://www.bca.gov.sg/greenmark/gmis.htmlthe gmis-nb is to help accelerate the adoption of environmentally-
+friendly green building technologies and building design practices. the 
+enhanced scheme offers cash incentives. 
+dappendix 
+d.6  enhanced $20 million green  
+ mark incentive scheme for   
+ new buildings (gmis-nb)61
+disclaimer
+the information  in this handbook is subject to change or revision, to adapt to the continual development  and 
+evolvement  of the electricity and building and construction  industries and is not a substitute for any law, regulation, 
+code of practice, standard of performance,  market rules or building control act which may apply to the said industries 
+in singapore. it does not in any way bind the energy market authority ("ema") and the building and construction 
+authority ("bca") to grant any approval or official permission for any matters, including but not limited to the grant 
+of any exemption nor to the terms of any exemption. both ema and bca reserve the right to change its policies 
+and/or to amend any information in this handbook without prior notice. persons who may be in doubt about how the 
+information in this handbook may affect them or their commercial  activities are advised to seek independent  legal 
+advice or any other professional  advice as they may deem appropriate.  both authorities assume no responsibility  or 
+liability for any consequences  (financial or otherwise) suffered directly or indirectly by persons who have entered into 
+commercial activities upon reliance on any information in this document.      62
+energy market authority
+991g alexandra road, #01-29singapore 119975tel: (65) 6835 8000fax: (65) 6835 8020building and construction authority5 maxwell road#16-00 tower block mnd complexsingapore 069110main line: 1800-3425222 (1800-dial bca)
+isbn: 978-981-08-4462-2

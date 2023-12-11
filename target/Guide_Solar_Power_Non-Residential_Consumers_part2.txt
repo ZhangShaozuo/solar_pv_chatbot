@@ -1,0 +1,392 @@
+5.2 solar pv system 1 mwac and above but below 10 mwac  
+ 
+there are various options for ccs to sell excess electricity back to the grid:  
+ 
+i. register with sps under the enhanced central intermediary scheme.  under this 
+simplified  arrangement, they will be paid the weighted average nodal price  through 
+sps, for the selling of excess solar electricity back to grid . sps will act as a central 
+intermediary, by passing through the payment and relevant market charges to 
+consumers. such consumers can  either choose (a) to install a meter to accurately 
+measure the solar electricity generated, or (b) to estimate their solar generation. for 
+option (a), consumers will need to install the relevant metering arrangement at each 
+generation point. more details on the meters can be found in section 8, ami meter 
+charges. for option (b), the solar generation will be estimated based on the sgp for 
+the calculations of the relevant payment and market charges. consumers need not 
+install any meters.  
+ 
+ii. register with the emc  as market participant . under this e xisting arrangement, the 
+ccs are required to register with the energy market company (emc) as market 
+participant (mp) ; and to register their solar generation facility, in order to receive 
+payment for the selling of the excess solar electricity back to the grid.  they will be 
+paid nodal price  for the selling of excess solar electricity back to the grid , and are 
+subjected to the applicable market charges. such consumers can  either choo se (a) 
+to install a meter to accurately measure the solar electricity generated, or (b) to 
+estimate their solar generation. for option (a), consumers will need to install the 
+relevant metering arrangement at each generation point. more details on the 
+meter s can be found in section 8, ami meter charges. for option (b), the solar 
+generation will be estimated based on the sgp for the calculations of the relevant 
+payment and market charges. consumers need not install any meters.  
+ 
+the required registration documents can be found below.  
+ 
+market participant registration  
+* mp registration form   
+* signed pso-mp agreement  and generation facility operating (gfo) 
+agreement with pso (if applicable)  
+ 
+generation facility registration  
+* the generation facility registration form   
+* approved connection agreement from sp powerasset  
+* signed mssl -mp agreement   
+ 
+all the documents should be  approved  before the solar pv system is turned on.   
+  
+solar pv - user guide for non-residential consumers  
+december 2022   12 
+ 
+iii. register with emc as market participant (igs non-exporting ). for consumers  with 
+embedded solar pv systems below 10 mwac who are not eligible for option (i) or 
+(ii) and will not be selling any electricity back to the grid, they can undergo a 
+streamlined market registration process and pay emc an estim ated fixed charge 
+determined by ema. this fixed charge will be based on the sgp and the historical 
+average rates of the respective charges.  
+ 
+for options (i) and (ii), ccs would need to register their load and generation accounts 
+under the same entity with  sps.  
+ 
+a summary of the market payments and charges for the respective options can be 
+found in the table below.  
+ 
+ 
+ 
+table 2: market payment and charges for solar pv systems less than 1 0 mwac  
+ 
+applicable payments / 
+charges  ccs with non -registered 
+solar pv system  (applicable 
+for less than 1 mwac)  ccs with emc/ ecis-
+registered solar pv system  
+energy payment / charges  
+energy generation  not eligible for payment  * for ccs with emc -
+registered solar pv system : 
+nodal price  
+* for ccs with cis -registered 
+solar pv system : weighted 
+average nodal price  (to be 
+paid based on net export)  
+energy consumption  
+ * for ccs who buy electricity 
+from the market: uniform 
+singapore electricity prices 
+(usep)  + hourly energy 
+uplift charge (h euc)  
+* for ccs who buy electricity 
+from retailers:  agreed retail 
+price for energy  
+(to be charged based on 
+meter's import channel)  * for ccs who buy electricity 
+from the market: uniform 
+singapore electricity prices 
+(usep) + hourly energy 
+uplift charge (heuc)  
+* for ccs who buy electricity 
+from retailers: agreed 
+retail price for energy  (to 
+be charged based on net 
+import)  
+reserves charges  
+spinning reserves3 not applicable  (subject to change based on the new pricing 
+mechanism framework)  
+regulation reserves (i.e. 
+afp)4 half-hourly afp  half-hourly afp  
+ 
+3 spinning reserves charge is recovered from all generation facilities scheduled (less the first 5 mwh of 
+each facility, which is allocated the cost of regulation reserve) operating in each half hour dispatch 
+period based on th e 'modified runway model'.  
+4 regulation reserves charge is recovered from all loads and the first 5 mwh of each generation facility 
+(including all solar pv systems generation facilities that are registered under cis) in each half hour 
+dispatch period.    
+solar pv - user guide for non-residential consumers  
+december 2022   13 
+ 
+applicable payments / 
+charges  ccs with non -registered 
+solar pv system  (applicable 
+for less than 1 mwac)  ccs with emc/ ecis-
+registered solar pv system  
+(to be charged based on 
+meter's import channel)  (to be charged based on 
+gross generation and gross 
+consumption)  
+non-reserves market charges  
+emc fees  yearly revised emc fees  
+(to be charged based on 
+meter's import channel)  yearly revised emc fees  
+(to be charged based on net 
+import or net export)  
+power system operator 
+(pso)  fees  daily revised pso fees  
+(to be charged based on 
+meter's import channel)  daily revised pso fees  
+(to be charged based on net 
+import or net export)  
+market support services 
+(mss)  charge  yearly revised mss charge  
+(to be charged based on 
+meter's import channel)  yearly revised mss charge  
+(to be charged based on net 
+import only)  
+monthly energy uplift charge 
+(meuc)  monthly revised meuc prices  
+(to be charged based on 
+meter's import channel)  monthly revised meuc prices  
+(to be charged based on net 
+import only)  
+grid charges  
+use of system (uos)  yearly revised uos charge  
+(to be charged based on import channel)  
+uncontracted capacity 
+charge (high -tension & 
+above network only)  cost is dependent on type of backup required  
+ 
+5.3 solar pv system s 10 mwac and above  
+ 
+for consumers  with solar pv systems 10 mwac and above , they are required to register 
+with the energy market company (emc) as market participant  (mp) ; and to register their 
+solar generation facility , in order to receive payment for  the selling of the excess solar 
+electricity back to the grid . they will be paid nodal price  for the selling of excess solar 
+electricity back to the grid , and are subjected to the applicable market charges.  
+ 
+in addition to that, consumers would need to register their load and generation 
+accounts under the same entity with sps.  the required registration documents can be 
+found below.  
+ 
+market participant registration  
+* mp regi stration form   
+* signed pso-mp agreement  and generation facility operating (gfo) agreement 
+with pso (if applicable)  
+ 
+generation facility registration  
+* the generation facility registration form   
+* approved connectio n agreement from sp powerasset s 
+* signed mssl -mp agreement   
+ 
+all the documents should be approved before the solar pv system is turned on.   
+solar pv - user guide for non-residential consumers  
+december 2022   14 
+ 
+ 
+a summary of the market payments and charges for consumers with solar pv systems  
+10 mwac and above can be found in the table below.  
+ 
+table 3: market payment and charges for solar pv systems 1 0 mwac and above  
+ 
+applicable payments 
+/ charges  description  
+energy payment / charges  
+energy generation  nodal price  (to be paid based on net export)  
+energy consumption  * for ccs who buy electricity from the market: uniform singapore 
+electricity prices (usep) + hourly energy uplift charge (heuc)  
+* for ccs who buy electricity from retailers: agreed retail price for 
+energy  (to be charged based on net import)  
+reserves charges  
+spinning reserves   subject to change based on the new pricing mechanism framework  
+regulation reserves 
+(i.e. afp)  half-hourly afp  
+(to be charged based on gross generation and gross consumption)  
+non-reserves market charges  
+emc fees   yearly revised emc fees  
+(to be charged based on net import or net export)  
+power system 
+operator (pso) fees  daily revised pso fees  
+(to be charged based on net import or net export)  
+market support 
+services (mss) 
+charge  yearly revised mss charge  
+(to be charged based on net import only)  
+monthly energy 
+uplift charge (meuc)  monthly revised meuc prices  
+(to be charged based on net import only)  
+grid charges  
+use of system (uos)  yearly revised uos charge  
+(to be charged based on import channel)  
+uncontracted 
+capacity charge 
+(high -tension & 
+above network only)  cost is dependent on type of backup required  
+ 
+5.4 solar generation profile  
+ 
+grid back -up scheme  
+for summation scheme consumers who opt for sgp, there may be instances where 
+they  will incur uncontracted capacity charge. for example, on a rainy or cloudy day, 
+they will be consuming more electricity from the grid as their solar pv system may be 
+generati ng little or no electricity. however, as the sgp is a fixed output throughout the 
+year, it would indicate that the solar installation is still generating.  
+hence, before deciding on the type of backup scheme and whether to opt for sgp or 
+meters, consumers should assess their consumption profile and operational needs.  
+solar pv - user guide for non-residential consumers  
+december 2022   15 
+ 
+they should also consider carefully the costs and benefits, including the risks and 
+uncertainties due to weather variability.  
+reactive power  
+currently in the transmission code, high -tension consumers would be required to 
+implement power factor correction measures, if deemed necessary by the 
+transmission licensee, to maintain a power factor of no less than 0.85. this is because 
+a load with high reactive power will require more cur rent-carrying capacity from the 
+grid.  
+for solar consumers who opt for sgp, there may be instances where they are penalised 
+due to differences between active power output based on the sgp and active power 
+output based on actual generation. this affects the calculation of gross load, on which 
+reactive power penalties are determined. hence, consumers who opt for sgp may risk 
+incurring reactive power penalties when actual generation values differ from sgp 
+values. if so, consumers can opt out of the sgp and inst all physical meters to accurately 
+measure the active power output.  
+6. intermittency  pricing mechanism  
+ 
+given the intermittent nature of solar pv , reserves from conventional power sources 
+are required to ensure system stability. for example, cloud cover or shadows may 
+cause solar pv output to drop quickly, which requires the need for reserves to make up 
+for the shortfall. without the back -up throug h reserves sources, consumers are 
+exposed to the risk of power disruptions, which happened in other countries with large 
+amounts of intermittent generation . 
+ 
+to ensure the sustainable growth of solar, a balance has to be struck between the 
+benefits of sola r generation and the intermittency costs it imposes on the system. 
+hence, it is appropriate to consider a mechanism, intermittency pricing mechanism 
+(ipm), to allocate the fair share of reserves costs to solar.  
+ 
+upon its implementation, the ipm will apply to all igs, except for certain groups which 
+the ema had previously indicated that would not be subject to the ipm. the groups 
+include:  
+ 
+a. residential consumers with embedded solar pv systems below 1 mwac ; and  
+b. non-residential consumers with embedded solar pv systems  connected to the 
+system on or before 31 january 2018, unless (i) they retrofit their igs systems such 
+that re -commissioning by sp powergrid would be required in the process; or (ii) 
+25 years from the commissioning date of their existing igs systems, whichever 
+occurs earlier.  
+   
+solar pv - user guide for non-residential consumers  
+december 2022   16 
+ 
+more details  on the ipm  can be found in ema's consultation paper .  
+7. monitoring requirements  
+ 
+with the expected increase in solar pv systems in singapore, the power system 
+operator (pso) would need to manage the intermittent nature of such sources to 
+ensure that the security and reliability of the power system is not compromised. most 
+importantly, pso also needs to ensure that sufficient reserve capacity is available to 
+respond to sudden fluctuations in solar output.  
+ 
+hence, pso shall require solar pv systems  with an installed capacity of 1 mwac and 
+above  at each site/facility to provide the active power output (ac -side) of its solar pv 
+system(s), sampled  at one -minute intervals  and solar irradiance from sensor installed in 
+close proximity to the pv panels.  
+ 
+for more detailed technical requirement, please  contact ema  at 
+ema_pso_ems@ema.gov.sg .  
+ 
+localised network limit  
+ 
+as there may be physical constraints of each network ring, there could be a limit to the 
+amount of solar pv systems that the network circuit can support. therefore, depending 
+on the limit ations  in that area, the permissible capacity of solar pv systems in each 
+location may differ. hence, parties who wish to invest in solar pv systems should check 
+if there are possible network constraints in their preferred locations, before making 
+their investme nt decisions.  
+8. ami meter charges  
+ 
+this section is only applicable to consumers who register their embedded solar pv 
+systems with sps under the central intermediary scheme, or with emc as a market 
+participant.  
+ 
+the owner of the generation facility (i.e. solar pv system) is the meter equipment 
+service provider (mesp) for the meter installation associated with it. however, 
+consumers with embedded generation facility (with installed capacity of less than 10 
+mwac) ma y choose to engage sppg to provide, install and maintain the generation 
+meter.  
+ 
+solar pv - user guide for non-residential consumers  
+december 2022   17 
+ 
+the fees applicable for providing such services by sppg are shown in the table s below:  
+ 
+table 4.1: metering charges for generation meters (inclusive of 7% gst before 1st jan 2023)  
+ main & check 
+meters  main & check 
+meters  main & check 
+meters  main meters 
+only  
+per generation unit / metering 
+point  at 66kv and 
+above  at 6.6kv / 
+22kv  at low 
+tension  at low 
+tension  
+upfront charge (one time)  $5,938.50  $5,938.50  $2,247.00  $1,498.00  
+monthly charge (recurring)  $214.00  $85.60  $42.80  $21.40  
+miscellaneous charge      
+a) attending to request for site 
+enquiry during office hours 
+(minimum 3 hours per 
+request).  $42.80 per 
+hour  $42.80 per 
+hour  $42.80 per 
+hour  $42.80 per 
+hour  
+b) attending to 
+communication / meter 
+failure during office hour. 
+charges will be waived if it 
+is due to equipment failure.  $85.60 per trip  $85.60 per trip  $85.60 per trip  $85.60 per trip  
+c) attending to adhoc request 
+by customer for meter 
+accuracy test with sac -
+singlas test report.  $1,926.00 per 
+meter  $1,926.00 per 
+meter  $706.20 per 
+meter  $706.20 per 
+meter  
+ 
+table 4.2: metering charges for generation meters (inclusive of 8% gst with effect from 1st jan 2023)  
+ main & check 
+meters  main & check 
+meters  main & check 
+meters  main meters 
+only  
+per generation unit / metering 
+point  at 66kv and 
+above  at 6.6kv / 
+22kv  at low 
+tension  at low 
+tension  
+upfront charge (one time)  $5,994.00  $5,994.00  $2,268.00  $1,512.00  
+monthly charge (recurring)  $216.00  $86.40  $43.20  $21.60  
+miscellaneous charge      
+d) attending to request for site 
+enquiry during office hours 
+(minimum 3 hours per 
+request).  $43.20 per 
+hour  $43.20 per 
+hour  $43.20 per 
+hour  $43.20 per 
+hour  
+e) attending to 
+communication / meter 
+failure during office hour. 
+charges will be waived if it 
+is due to equipment failure.  $86.40 per trip  $86.40 per trip   $86.40 per trip   $86.40 per trip  
+f) attending to adhoc request 
+by customer for meter 
+accuracy test with sac -
+singlas test report.  $1,944.00 per 
+meter  $1,944.00 per 
+meter   $712.80 per 
+meter   $712.80 per 
+meter   
+  
+solar pv - user guide for non-residential consumers  
+december 2022   18 
+ 

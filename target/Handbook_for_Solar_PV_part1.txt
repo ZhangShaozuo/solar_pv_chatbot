@@ -1,0 +1,220 @@
+1solar photovoltaic 
+("pv") systems - 
+an overview 
+figure 1. the difference between solar thermal and solar pv systems 
+1.1 introduction
+  the  sun delivers its energy to us in two main forms: heat and light. there are two main 
+types of solar power systems, namely, solar thermal systems that trap heat to warm up 
+water, and solar pv systems that convert sunlight directly into electricity as shown in 
+figure 1.
+ 
+  when  the pv modules are exposed to sunlight, they generate direct current ("dc") 
+electricity. an inverter then converts the dc into alternating current ("ac") electricity, 
+so that it can feed into one of the building's ac distribution boards ("acdb") without 
+affecting the quality of power supply. 5
+chapter 1
+solar photovolt aic ("pv") systems - an overview
+figure 2. grid-connected solar pv system configuration1.2  types of solar pv system
+  solar  pv systems can be classified based on the end-use application of the technology. 
+there are two main types of solar pv systems: grid-connected (or grid-tied) and off-grid 
+(or stand alone) solar pv systems.
+ grid-connected solar pv systems
+  the  main application of solar pv in singapore is grid-connected,  as singapore's  main 
+island is well covered by the national power grid. most solar pv systems are installed 
+on buildings or mounted on the ground if land is not a constraint. for buildings, they are 
+either mounted on the roof or integrated into the building. the latter is also known as 
+building integrated photovoltaics  ("bipv"). with bipv, the pv module usually displaces 
+another building component,  e.g. window glass or roof/wall cladding, thereby serving a 
+dual purpose and offsetting some costs.
+  the configuration of a grid-connected solar pv system is shown in figure 2.  
+  a building has two parallel power supplies, one from the solar pv system and the other 
+from the power grid. the combined power supply feeds all the loads connected to the 
+main acdb. 
+  the  ratio of solar pv supply to power grid supply varies, depending on the size of the 
+solar pv system. whenever the solar pv supply exceeds the building's demand, excess 
+electricity will be exported into the grid. when there is no sunlight to generate pv 
+electricity at night, the power grid will supply all of the building's demand.6
+chapter 1
+solar photovolt aic ("pv") systems - an overview
+figure 3. off-grid solar pv system configuration
+ a grid-connected  system can be an effective way to reduce your dependence  on utility 
+power, increase renewable energy production, and improve the environment.
+ off-grid solar pv systems
+  off-grid  solar pv systems are applicable for areas without power grid. currently, such 
+solar pv systems are usually installed at isolated sites where the power grid is far away, 
+such as rural areas or off-shore islands. but they may also be installed within the city in 
+situations where it is inconvenient  or too costly to tap electricity from the power grid. 
+for example, in singapore, several ura parking sign lights are powered by off-grid solar 
+pv systems.
+  an  off-grid solar pv system needs deep cycle rechargeable  batteries such as lead-acid, 
+nickel-cadmium  or lithium-ion batteries to store electricity for use under conditions 
+where there is little or no output from the solar pv system, such as during the night, as 
+shown in figure 3 below.
+1.3  solar pv technology
+  this  section gives a brief description of the solar pv technology and the common 
+technical terms used. 
+  a solar pv system is powered by many crystalline or thin film pv modules.  individual 
+pv cells are interconnected to form a pv module. this takes the form of a panel for easy 
+installation.
+7
+chapter 1
+solar photovolt aic ("pv") systems - an overview
+mono-crystalline silicon pv cell
+ poly-crystalline silicon pv cell
+figure 5. pv technology family treepv cell types
+poly-crystalline
+mono-crystallineamorphous-si 
+(a-si)
+tandem
+a-si/microcrystalline
+cigs
+(copper indium gallium
+selenide)
+cdte
+(cadmium telluride)
+dye-sensitised (tio2)commercially
+available product,
+suitable for singapore
+r&d or pilot stage, or
+unsuitable for
+singaporespecial
+compound semiconductor
+eg gaas-basedcrystalline silicon
+(wafer based)thin film  pv cells are made of light-sensitive  semiconductor  materials that use photons to dislodge 
+electrons to drive an electric current. there are two broad categories of technology used 
+for pv cells, namely, crystalline silicon, as shown in figure 4 which accounts for the 
+majority of pv cell production; and thin film, which is newer and growing in popularity. 
+the "family tree" in figure 5 gives an overview of these technologies  available today 
+and figure 6 illustrates some of these technologies. 
+figure 4. mono-and poly-crystalline silicon pv cell8
+chapter 1
+solar photovolt aic ("pv") systems - an overview
+cigs thin film mono-crystalline 
+siliconpoly-crystalline 
+siliconflexible amorphous 
+thin film
+figure 6. common pv module technologies
+ crystalline silicon and thin film technologies
+  crystalline  cells are made from ultra-pure silicon raw material such as those used in 
+semiconductor  chips. they use silicon wafers that are typically 150-200 microns (one 
+fifth of a millimetre) thick.
+  thin  film is made by depositing layers of semiconductor  material barely 0.3 to 2 
+micrometres thick onto glass or stainless steel substrates.  as the semiconductor layers 
+are so thin, the costs of raw material are much lower than the capital equipment and 
+processing costs.
+ conversion efficiency
+ technology module efficiency
+  mono-crystalline silicon   12.5-15%
+  poly-crystalline silicon  11-14%
+  copper indium gallium selenide (cigs)  10-13%
+  cadmium telluride (cdte)  9-12%
+  amorphous silicon (a-si)  5-7%
+ t able 1. conversion efficiencies of various pv module technologies
+  apart  from aesthetic differences,  the most obvious difference amongst pv cell 
+technologies is in its conversion efficiency, as summarised in table 1.
+  for  example, a thin film amorphous silicon pv array will need close to twice the space 
+of a crystalline silicon pv array because its module efficiency is halved, for the same 
+nominal capacity under standard test conditions1  (stc) rating.
+1standard test conditions refer to the following testing conditions:
+* 1,000w/m2 of sunlight
+* 250c cell temperature
+* spectrum at air mass of 1.5
+9
+chapter 1
+solar photovolt aic ("pv") systems - an overview
+  for crystalline silicon pv modules, the module efficiency is lower compared to the sum 
+of the component cell efficiency due to the presence of gaps between the cells and the 
+border around the circuit i.e., wasted space that does not generate any power hence 
+lower total efficiency.  
+ effects of temperature 
+  another  important differentiator  in solar pv performance,  especially in hot climates, is 
+the temperature  coefficient of power. pv cell performance  declines as cell temperature 
+rises. 
+  for  example, in bright sunlight, cell temperatures  in singapore can reach over 70oc, 
+whereas pv modules are rated at a cell temperature  of 25oc. the loss in power output 
+at 70oc is therefore measured as (70 - 25) x temperature coefficient.
+  most  thin film technologies  have a lower negative temperature  coefficient compared to 
+crystalline technologies.   in other words, they tend to lose less of their rated capacity as 
+temperature  rises. hence, under singapore's  climatic condition, thin film technologies 
+will generate 5-10% more electricity per year.
+  a pv module data sheet should specify the temperature  coefficient. see table 2 and 
+chart in figure 7.
+ technology t emperature coefficient
+  [%/degc]
+  crystalline silicon  -0.4 to -0.5
+  cigs  -0.32 to -0.36
+  cdte  -0.25
+  a-si  -0.21
+table 2. t emperature coefficient of various pv cell technologes
+module output relative to stc
+figure 7.  the effects of a negative temperature 
+coefficient of power on  pv module performance10
+ 
+ chapter 1
+solar photovolt aic ("pv") systems - an overview
+1.4  technical information 
+  single-core,  double isolated sheathed cables that can withstand the environmental 
+conditions, and minimise the risk of earth faults and short circuits are used to interconnect 
+the pv strings and arrays. the cable connections  are protected in enclosures known as 
+junction box that provides the necessary connectors as shown in figure 10.figure 8. pv string figure 9. pv array
+figure 10. junction box
+ electricity produced by the solar pv installation is in the form of dc.  the output of the 
+pv installation is connected through the dc main cables to the dc terminals of the pv 
+inverter where electricity is converted from dc into ac.
+  after  conversion,  the ac current of the pv inverter is connected through pv supply 
+cable to the building's electrical installation (ac distribution board).  
+  figure  11 shows a typical pv inverter connected to the electrical installation of a 
+building.  note that the actual configuration  of the pv inverter may vary across different 
+systems.    the pv modules are next connected in series into a pv string as shown in figure 8.
+  a pv array as shown in figure 9 is formed by the parallel aggregation of pv strings.
+11
+chapter 1
+solar photovolt aic ("pv") systems - an overview
+   just  like any electrical installation in a building, earthing is an important safety requirement 
+for solar pv system. arrangement must be made for proper connection of the solar pv system to the consumer's electrical installation earthing system.
+  in locations susceptible  to lightning strikes, a lightning protection system must be 
+provided, and all the exposed metallic structures of the solar pv system must be bound 
+to the lightning earthing system.
+  it is the responsibility  of the consumers to have their solar pv systems maintained 
+regularly to ensure safe operation of their solar pv systems and electrical installations. see figure 12 for a diagram showing the solar pv system forming part of a consumer's 
+electrical installation.figure 11. t ypical pv inverter connected to a  
+building's electrical installation
+figure 12. solar pv system forming part of a consumer's electrical installation
+dc side ac side
+pv
+inverter
+pv dc main cablepv supplycableac distribution
+board12
+2solar pv systems 
+on a building
+2.1  introduction
+  there  are many examples overseas where pv modules are mounted on the roof and 
+integrated into building facades. they work particularly well in europe and north america, 
+as south-facing facades in these regions are well exposed to the sun.  
+  in singapore, we have to consider that the sun passes almost directly overhead.  this is 
+because we are located near the equator, and the path of the sun follows the equator, 
+with seasonal variations of up to 23.5o to the north or south.  therefore there are optimal 
+positions to locate the pv modules that have to be taken into consideration.  refer to 
+appendix a for examples of solar pv systems on buildings in singapore. 
+2.2 installation angle 
+  to  maximise electricity production for use in singapore, the best location for the 
+pv modules to be installed is right on top of a building, facing the sky. the possible 
+installation options are shown in figure 13. 
+figure 13. where to install pv modules on a building in singapore
+13
+figure 14. pv module frames trap dirt as water evaporates from a
+flat-mounted pv module vertical facades and steeply sloped roofs tend to suffer a big loss in the ability to generate 
+electricity in exchange for higher public visibility. 
+  with  the pv modules facing the sky, it is possible to improve the yield by installing pv 
+modules on trackers to follow the sun from east to west during the day (single-axis 
+trackers), and from north to south during seasonal changes (dual-axis trackers).
+  however,  trackers can only improve system performance  under direct sunshine, and 
+they give no advantage in diffused sunlight conditions, such as on cloudy or hazy days. 
+  the  down side of having flat-mounted  pv modules is that they tend to get dirty from 
+rain water and dust. see figure 14. it is therefore better to mount the pv modules at an 
+incline (10-15o for framed modules, or as little as 3-5o for unframed modules), to allow 
+rain water to properly drain off
+2.3  avoid shading pv modules
+ pv modules should be free from shade. shading of any single cell of a crystalline silicon pv module will drastically reduce the output of the entire pv module. 
+  thin  film pv modules are more tolerant to partial shading than crystalline silicon pv 
+modules. typical culprits include shadows cast by tall trees and neighbouring  buildings.chapter 2solar pv systems on a building
