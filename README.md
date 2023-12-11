@@ -1,3 +1,4 @@
 ### Set up
-run 'pip install -r requirements', 
-then 'python app.py'
+```pip install -r requirements```, 
+### Start app 
+```python app.py```
