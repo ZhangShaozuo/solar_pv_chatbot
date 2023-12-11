@@ -1,0 +1,6 @@
+accelerate
+bitsandbytes
+torch
+git+https://github.com/huggingface/transformers.git  # transformers from main (TextIteratorStreamer will be added in v4.28)
+rank-bm25
+gradio
