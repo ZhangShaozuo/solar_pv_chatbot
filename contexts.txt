@@ -1,0 +1,30 @@
+Source: https://www.greenmatch.co.uk/blog/2015/09/types-of-solar-panels
+This type of solar panels (made of monocrystalline silicon) is the purest one. You can easily recognise them from the uniform dark look and the rounded edges. The silicon’s high purity causes this type of solar panel has one of the highest efficiency rates, with the newest ones reaching above 20%.
+
+3rd generation solar panels include a variety of thin film technologies but most of them are still in the research or development phase. Some of them generate electricity by using organic materials, others use inorganic substances (CdTe for instance).----------------------------
+
+Source: https://aurorasolar.com/blog/solar-panel-types-guide/
+There are 4 major types of solar panels available on the market today: monocrystalline, polycrystalline, PERC, and thin-film panels.
+
+The typical solar panel is composed of individual solar cells, each of which is made from layers of silicon, boron and phosphorus. The boron layer provides the positive charge, the phosphorus layer provides the negative charge, and the silicon wafer acts as the semiconductor.----------------------------
+
+Source: https://www.energy.gov/eere/solar/how-does-solar-work
+You're likely most familiar with PV, which is utilized in solar panels. When the sun shines onto a solar panel, energy from the sunlight is absorbed by the PV cells in the panel. This energy creates electrical charges that move in response to an internal electrical field in the cell, causing electricity to flow.
+
+Concentrating solar-thermal power (CSP) systems use mirrors to reflect and concentrate sunlight onto receivers that collect solar energy and convert it to heat, which can then be used to produce electricity or stored for later use. It is used primarily in very large power plants.----------------------------
+
+Source: https://getsolar.ai/blog/types-of-solar-panels/
+Traditional first-generation solar panels are usually made of monocrystalline and polycrystalline silicon. On the other hand, second-generation ones, made using innovative technology, are thin-film solar panels.
+
+While both types of solar panels are made from silicon, their manufacturing process and silicon composition are different. Monocrystalline panels are formed using the Czochralski method, by setting a pure silicon crystal into a tank of molten silicon at high temperature. The end result of this process is thinly sectioned silicon sheets or wafers. These sheets are then made into the solar cell and put together to form one solar panel.----------------------------
+
+Source: https://www.repsol.com/en/energy-and-the-future/future-of-the-world/types-of-solar-panels/index.cshtml
+Solar panels, also called photovoltaic panels or solar cells, are technological devices used to convert the sun's energy into electrical energy.
+
+The technology used in these solar panels, which is still under development, makes it possible to combine the benefits of photovoltaic cells and thermal collectors in a single system.----------------------------
+
+Source: https://www.forbes.com/home-improvement/solar/types-of-solar-panels/
+And if 20% isn’t quite efficient enough for you? No worries—under the monocrystalline umbrella falls an additional type of solar panel called the PERC (passivated emitter and rear cell). While use of this technology is still ramping up, experts say it offers even more efficiency than traditional monocrystalline panels (thanks to an added layer of silicon material on the panel’s back side) and isn’t particularly cost prohibitive to manufacture.
+
+According to Energy Sage, a U.S. Department of Energy-endorsed online resource that allows consumers to comparison shop for solar energy, there are three main types of solar panels available for residential use. They are: monocrystalline, polycrystalline and thin-film.----------------------------
+
