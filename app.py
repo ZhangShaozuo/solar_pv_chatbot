@@ -1,13 +1,14 @@
 from threading import Thread
-from rank_bm25 import BM25Okapi
+
 import torch
 import gradio as gr
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, TextIteratorStreamer
-from utils import *
+# from utils import *
+from create_context import *
+from openai import OpenAI
 
 model_id = "declare-lab/flan-alpaca-large"
-# torch_device = "cuda" if torch.cuda.is_available() else "cpu"
-# print("Running on device:", torch_device)
+client = OpenAI(api_key = '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')
 print("CPU threads:", torch.get_num_threads())
 torch.backends.cudnn.benchmark = True
 device_id = 2
@@ -17,35 +18,26 @@ torch.cuda.set_device(device_id)
 # model = AutoModelForSeq2SeqLM.from_pretrained(model_id, load_in_8bit=True, device_map=device)
 model = AutoModelForSeq2SeqLM.from_pretrained(model_id, device_map=device)
 tokenizer = AutoTokenizer.from_pretrained(model_id)
-f = open("source/reference.txt", "r").read().split('\n\n')
-tokenized_corpus = [doc.split(" ") for doc in f]
-bm25 = BM25Okapi(tokenized_corpus)
-
-def myBM25(user_text):
-    tokenized_query = user_text.split(" ")
-    contexts = bm25.get_top_n(tokenized_query, tokenized_corpus, n=3)
-    prompt = "Answer the question below, you can refer to but NOT limited to the contexts \n\nContext: \n"
-    for context in contexts:
-        prompt += ' '.join(context) + "\n\n###\n\n"
-    prompt += "---\n\nQuestion: " + user_text + "\nAnswer:"
-    return prompt
-
+context_df = pd.read_csv('target/chunk_embeddings.csv', index_col=0)
+context_df = context_df[context_df['text']!='\n']
 def run_generation(model_name, user_text, top_p, temperature, top_k, max_new_tokens):
     # Get the model and tokenizer, and tokenize the user text.
     # print('Model name', model_name)
     if model_name == 1:
-        # model = Prompt_GPT()
-        # return model.get_chatGPT(user_text, top_p, temperature, top_k, max_new_tokens)
-        # t = Thread(target=chatGPT, args=(user_text, top_p, temperature, top_k, max_new_tokens))
-        # streamer = TextIteratorStreamer(None, timeout=10., skip_prompt=True, skip_special_tokens=True)
-        # t = Thread(target=simple_return, args=())
-        # t.start()
-        model_output = "check"
+        contexted_user_text = search_contexts(context_df, user_text, n=3)
+        
+        model_output = client.chat.completions.create(
+            model = "gpt-3.5-turbo",
+            messages = [{'role':'user', 'content':contexted_user_text}]
+        ).choices[0].message.content
+        # model_output = 'test'
+        print(contexted_user_text)
         yield model_output
         return model_output
         
     else:
-        contexted_user_text = myBM25(user_text)
+        contexted_user_text = search_contexts(context_df, user_text, n=3)
+        
         model_inputs = tokenizer([contexted_user_text], return_tensors="pt").to(device)
 
         # Start generation on a separate thread, so that we don't block the UI. The text is pulled from the streamer
@@ -118,7 +110,7 @@ with gr.Blocks() as demo:
             )
             
     user_text.submit(run_generation, [model_name, user_text, top_p, temperature, top_k, max_new_tokens], model_output)
-    user_text.submit(myBM25, [user_text], context_output)
+    # user_text.submit(search_contexts, [context_df, user_text, 3], context_output)
     button_submit.click(run_generation, [model_name, user_text, top_p, temperature, top_k, max_new_tokens], model_output)
-    button_submit.click(myBM25, [user_text], context_output)
-    demo.queue(max_size=32).launch(share=False)
+    # button_submit.click(search_contexts, [context_df, user_text, 3], context_output)
+    demo.queue(max_size=32).launch(share=True)

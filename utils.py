@@ -1,6 +1,7 @@
-import openai
 import re
 from unidecode import unidecode
+from rank_bm25 import BM25Okapi
+
 _whitespace_re = re.compile(r'\s+')
 
 # List of (regular expression, replacement) pairs for abbreviations:
@@ -52,4 +53,19 @@ def english_cleaners(text):
     text = expand_abbreviations(text)
     # text = collapse_whitespace(text)
     return text
-    
+
+# f = open("source/reference.txt", "r").read().split('\n\n')
+# tokenized_corpus = [doc.split(" ") for doc in f]
+# bm25 = BM25Okapi(tokenized_corpus)
+
+# def myBM25(user_text):
+#     tokenized_query = user_text.split(" ")
+#     contexts = bm25.get_top_n(tokenized_query, tokenized_corpus, n=3)
+#     prompt = "Answer the question below, you can refer to but NOT limited to the contexts \n\nContext: \n"
+#     for context in contexts:
+#         prompt += ' '.join(context) + "\n\n###\n\n"
+#     prompt += "---\n\nQuestion: " + user_text + "\nAnswer:"
+#     return prompt
+
+
+
